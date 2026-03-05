@@ -103,3 +103,6 @@ Strong relational database modeling
 Analytical SQL proficiency
 Business-oriented interpretation of healthcare data
 Ability to translate raw data into strategic recommendations
+
+
+Find attached the dataset, the sql file, the results csv
