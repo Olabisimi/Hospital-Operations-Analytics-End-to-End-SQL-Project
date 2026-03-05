@@ -1,5 +1,6 @@
 # Hospital-Operations-Analytics-End-to-End-SQL-Project
 This project analyzes a hospital database using PostgreSQL to uncover operational, clinical, and performance insights.
+
 **Executive Summary**
 This project delivers a full-cycle SQL analytics solution for a hospital system, covering data modeling, data validation, exploratory analysis, and advanced performance metrics.
 Using PostgreSQL, I transformed raw relational tables into actionable operational insights across patient flow, resource utilization, ward efficiency, and physician workload.
