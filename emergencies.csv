@@ -1,0 +1,301 @@
+emergency_id,patient_id,cause,triage_level,arrival_time,outcome
+1,364,Hypertension Crisis,Red,2024-07-14 10:26:00,Deceased
+2,26,Road Accident,Green,2024-07-13 00:34:27,Treated & Discharged
+3,113,Labour Pain,Yellow,2024-12-31 21:51:08,Treated & Discharged
+4,141,Road Accident,Yellow,2024-10-13 19:58:15,Admitted
+5,109,Gunshot,Yellow,2025-06-01 19:33:15,Treated & Discharged
+6,91,Hypertension Crisis,Red,2024-12-13 04:43:23,Deceased
+7,313,Asthma Attack,Green,2024-06-17 21:52:09,Treated & Discharged
+8,3,Road Accident,Red,2024-03-05 06:38:49,Treated & Discharged
+9,267,Labour Pain,Green,2024-07-13 05:55:19,Admitted
+10,83,Labour Pain,Yellow,2025-08-31 17:48:37,Deceased
+11,232,Gunshot,Red,2025-01-08 02:07:29,Admitted
+12,215,Road Accident,Yellow,2025-04-19 06:03:54,Deceased
+13,474,Asthma Attack,Red,2024-12-18 10:52:57,Treated & Discharged
+14,34,Road Accident,Yellow,2024-09-22 08:54:30,Deceased
+15,329,Labour Pain,Red,2024-07-05 04:07:56,Admitted
+16,60,Hypertension Crisis,Yellow,2026-02-16 10:54:22,Admitted
+17,313,Gunshot,Yellow,2024-06-05 15:11:50,Admitted
+18,418,Labour Pain,Red,2024-07-22 11:52:13,Treated & Discharged
+19,96,Convulsion,Red,2026-02-07 05:55:10,Deceased
+20,451,Road Accident,Green,2025-09-13 13:32:41,Treated & Discharged
+21,117,Convulsion,Red,2026-01-14 03:46:18,Deceased
+22,70,Gunshot,Red,2026-01-07 21:40:21,Admitted
+23,237,Road Accident,Yellow,2025-01-12 12:30:00,Deceased
+24,161,Labour Pain,Red,2024-06-18 18:34:35,Admitted
+25,490,Convulsion,Yellow,2025-04-03 21:50:39,Deceased
+26,425,Labour Pain,Red,2025-11-25 05:25:32,Deceased
+27,294,Asthma Attack,Green,2024-11-19 18:18:25,Deceased
+28,168,Labour Pain,Yellow,2024-12-05 15:22:42,Admitted
+29,416,Labour Pain,Red,2025-12-09 10:48:27,Deceased
+30,268,Convulsion,Yellow,2025-05-10 15:56:39,Deceased
+31,285,Hypertension Crisis,Red,2024-05-16 07:23:59,Treated & Discharged
+32,177,Gunshot,Green,2025-10-03 15:59:16,Treated & Discharged
+33,143,Convulsion,Red,2025-03-22 10:37:09,Treated & Discharged
+34,429,Labour Pain,Red,2024-11-27 20:10:55,Deceased
+35,407,Labour Pain,Green,2024-11-20 10:33:44,Admitted
+36,243,Gunshot,Yellow,2024-10-02 02:28:05,Deceased
+37,43,Gunshot,Green,2025-10-12 05:45:52,Admitted
+38,19,Asthma Attack,Yellow,2024-03-27 20:31:48,Admitted
+39,79,Asthma Attack,Green,2024-11-29 05:52:27,Deceased
+40,313,Convulsion,Red,2025-03-19 19:50:28,Deceased
+41,94,Road Accident,Yellow,2025-08-20 15:21:27,Treated & Discharged
+42,110,Labour Pain,Yellow,2025-11-07 19:34:14,Treated & Discharged
+43,132,Hypertension Crisis,Red,2025-11-01 15:47:38,Treated & Discharged
+44,447,Gunshot,Yellow,2025-11-13 10:34:33,Deceased
+45,31,Convulsion,Yellow,2025-09-24 20:21:36,Deceased
+46,223,Road Accident,Green,2025-09-18 12:35:06,Treated & Discharged
+47,230,Gunshot,Green,2024-07-28 16:37:13,Deceased
+48,113,Labour Pain,Yellow,2024-05-28 15:30:27,Treated & Discharged
+49,477,Hypertension Crisis,Green,2024-03-31 01:38:47,Admitted
+50,281,Asthma Attack,Red,2024-05-03 13:07:25,Treated & Discharged
+51,410,Gunshot,Yellow,2026-02-18 23:38:09,Deceased
+52,497,Asthma Attack,Yellow,2024-05-25 06:07:45,Admitted
+53,277,Road Accident,Yellow,2026-02-07 17:58:24,Treated & Discharged
+54,28,Convulsion,Yellow,2024-08-14 14:56:23,Treated & Discharged
+55,361,Road Accident,Yellow,2025-11-29 00:40:21,Treated & Discharged
+56,230,Hypertension Crisis,Yellow,2025-04-21 11:25:16,Treated & Discharged
+57,41,Asthma Attack,Yellow,2025-06-19 09:10:58,Admitted
+58,106,Hypertension Crisis,Red,2025-01-09 16:15:30,Deceased
+59,423,Road Accident,Green,2025-01-17 06:48:21,Admitted
+60,277,Asthma Attack,Yellow,2024-10-16 11:35:15,Admitted
+61,22,Convulsion,Green,2024-08-16 15:19:47,Deceased
+62,159,Labour Pain,Red,2025-08-14 03:49:11,Deceased
+63,308,Road Accident,Red,2025-05-06 07:36:46,Admitted
+64,487,Road Accident,Red,2025-03-15 16:45:26,Treated & Discharged
+65,399,Hypertension Crisis,Yellow,2026-01-23 12:41:05,Admitted
+66,308,Labour Pain,Red,2026-01-16 03:13:38,Admitted
+67,169,Asthma Attack,Green,2025-08-26 11:28:06,Treated & Discharged
+68,350,Convulsion,Red,2025-12-12 03:34:09,Deceased
+69,360,Gunshot,Red,2024-08-22 03:28:41,Deceased
+70,13,Convulsion,Green,2024-09-16 00:14:32,Deceased
+71,190,Gunshot,Yellow,2026-02-06 06:18:52,Treated & Discharged
+72,358,Road Accident,Green,2024-06-20 10:12:56,Admitted
+73,1,Road Accident,Green,2025-07-22 15:26:40,Admitted
+74,94,Convulsion,Yellow,2025-05-08 18:22:20,Deceased
+75,183,Road Accident,Red,2024-05-15 08:11:52,Admitted
+76,441,Convulsion,Green,2025-02-19 17:14:13,Admitted
+77,41,Asthma Attack,Red,2025-02-01 01:46:45,Treated & Discharged
+78,110,Labour Pain,Red,2025-05-24 07:01:23,Treated & Discharged
+79,495,Labour Pain,Green,2025-05-01 11:56:47,Deceased
+80,302,Asthma Attack,Yellow,2025-08-11 17:38:18,Deceased
+81,456,Hypertension Crisis,Yellow,2026-02-14 03:30:05,Admitted
+82,225,Asthma Attack,Red,2025-04-14 03:43:23,Treated & Discharged
+83,52,Convulsion,Green,2024-08-13 18:55:21,Admitted
+84,433,Gunshot,Yellow,2025-10-30 15:59:51,Deceased
+85,282,Road Accident,Yellow,2025-04-24 18:10:10,Deceased
+86,381,Hypertension Crisis,Green,2025-09-05 11:54:57,Treated & Discharged
+87,330,Road Accident,Red,2025-08-17 17:49:34,Deceased
+88,385,Road Accident,Red,2024-03-26 17:39:34,Admitted
+89,202,Asthma Attack,Green,2025-11-26 21:30:40,Deceased
+90,111,Asthma Attack,Green,2025-01-18 03:45:49,Admitted
+91,105,Labour Pain,Green,2024-12-13 12:28:55,Admitted
+92,2,Asthma Attack,Yellow,2026-01-25 07:27:31,Admitted
+93,481,Road Accident,Red,2024-05-05 16:52:11,Treated & Discharged
+94,24,Hypertension Crisis,Green,2024-03-27 00:57:12,Deceased
+95,498,Asthma Attack,Red,2024-09-02 08:54:02,Admitted
+96,278,Asthma Attack,Green,2025-04-30 18:37:17,Deceased
+97,466,Road Accident,Red,2024-03-11 16:33:38,Deceased
+98,173,Hypertension Crisis,Green,2024-08-16 23:50:26,Admitted
+99,492,Hypertension Crisis,Yellow,2024-10-12 22:25:50,Treated & Discharged
+100,390,Gunshot,Yellow,2025-06-20 02:43:56,Deceased
+101,291,Asthma Attack,Red,2025-12-04 12:54:05,Admitted
+102,186,Convulsion,Red,2024-06-29 08:22:31,Admitted
+103,31,Convulsion,Yellow,2025-07-03 00:26:45,Deceased
+104,482,Hypertension Crisis,Red,2025-02-09 23:09:26,Deceased
+105,10,Convulsion,Green,2024-09-27 20:00:07,Treated & Discharged
+106,483,Hypertension Crisis,Red,2024-03-09 06:08:12,Admitted
+107,280,Convulsion,Green,2024-07-31 18:39:48,Treated & Discharged
+108,245,Asthma Attack,Red,2025-11-08 12:21:28,Deceased
+109,459,Gunshot,Yellow,2025-10-05 15:29:46,Deceased
+110,137,Labour Pain,Green,2026-01-10 22:19:44,Admitted
+111,367,Gunshot,Green,2026-02-22 18:47:10,Admitted
+112,292,Asthma Attack,Yellow,2025-09-21 04:47:52,Deceased
+113,358,Asthma Attack,Red,2025-07-03 04:25:12,Admitted
+114,2,Convulsion,Yellow,2025-05-06 06:30:48,Treated & Discharged
+115,194,Gunshot,Yellow,2024-08-12 12:26:46,Treated & Discharged
+116,5,Gunshot,Red,2024-08-21 04:28:38,Deceased
+117,179,Road Accident,Red,2025-09-02 06:38:42,Treated & Discharged
+118,109,Convulsion,Yellow,2024-06-05 20:14:30,Treated & Discharged
+119,67,Convulsion,Red,2025-03-04 21:11:09,Treated & Discharged
+120,55,Convulsion,Green,2024-07-12 06:17:36,Treated & Discharged
+121,95,Hypertension Crisis,Red,2024-05-02 14:53:45,Deceased
+122,96,Labour Pain,Green,2024-09-15 07:14:32,Deceased
+123,399,Gunshot,Red,2026-02-17 05:15:25,Admitted
+124,158,Asthma Attack,Red,2024-04-09 00:44:15,Admitted
+125,8,Labour Pain,Red,2026-02-12 13:24:15,Deceased
+126,21,Labour Pain,Yellow,2025-04-23 03:52:51,Deceased
+127,24,Asthma Attack,Red,2025-03-17 16:28:56,Admitted
+128,327,Hypertension Crisis,Green,2024-07-13 12:00:03,Treated & Discharged
+129,262,Asthma Attack,Red,2026-01-19 22:01:38,Admitted
+130,78,Road Accident,Red,2024-03-31 23:19:34,Treated & Discharged
+131,202,Convulsion,Red,2024-05-06 19:32:00,Admitted
+132,316,Road Accident,Yellow,2025-05-21 21:17:48,Deceased
+133,172,Convulsion,Yellow,2025-09-10 21:47:09,Deceased
+134,285,Hypertension Crisis,Yellow,2025-06-05 00:51:54,Treated & Discharged
+135,439,Hypertension Crisis,Red,2025-08-06 17:31:57,Admitted
+136,88,Hypertension Crisis,Green,2025-08-19 03:58:37,Deceased
+137,395,Convulsion,Yellow,2024-03-12 22:36:13,Admitted
+138,203,Road Accident,Red,2025-03-01 03:40:02,Admitted
+139,215,Labour Pain,Red,2025-07-18 02:49:24,Admitted
+140,453,Labour Pain,Red,2024-05-13 05:52:07,Treated & Discharged
+141,190,Asthma Attack,Green,2025-04-14 19:39:42,Admitted
+142,40,Asthma Attack,Yellow,2025-12-19 09:29:55,Treated & Discharged
+143,456,Road Accident,Green,2024-04-18 17:51:05,Deceased
+144,65,Road Accident,Yellow,2025-11-05 01:31:01,Admitted
+145,47,Asthma Attack,Red,2024-07-08 09:54:02,Admitted
+146,366,Hypertension Crisis,Red,2024-08-15 20:26:56,Admitted
+147,97,Convulsion,Green,2025-07-31 22:35:38,Admitted
+148,51,Labour Pain,Green,2025-04-15 00:57:24,Deceased
+149,339,Gunshot,Red,2026-02-20 05:46:31,Treated & Discharged
+150,465,Hypertension Crisis,Red,2025-12-19 06:39:29,Deceased
+151,294,Convulsion,Green,2024-06-29 02:56:39,Admitted
+152,352,Asthma Attack,Green,2024-05-11 07:02:35,Admitted
+153,223,Road Accident,Red,2024-11-21 13:24:43,Deceased
+154,224,Gunshot,Green,2024-03-25 07:33:39,Treated & Discharged
+155,171,Hypertension Crisis,Green,2024-04-27 01:55:09,Admitted
+156,374,Hypertension Crisis,Yellow,2024-12-17 02:43:50,Deceased
+157,384,Convulsion,Green,2024-04-30 21:41:18,Treated & Discharged
+158,86,Labour Pain,Green,2024-12-13 01:53:01,Admitted
+159,196,Hypertension Crisis,Green,2026-01-21 03:12:41,Admitted
+160,363,Road Accident,Yellow,2024-03-25 05:28:32,Admitted
+161,246,Hypertension Crisis,Green,2025-12-20 04:56:49,Deceased
+162,440,Gunshot,Red,2025-08-16 14:45:59,Deceased
+163,193,Hypertension Crisis,Red,2025-05-24 16:39:32,Deceased
+164,466,Hypertension Crisis,Yellow,2026-01-17 17:39:53,Admitted
+165,412,Hypertension Crisis,Yellow,2025-03-13 17:40:18,Treated & Discharged
+166,493,Asthma Attack,Red,2025-04-07 04:18:00,Deceased
+167,50,Hypertension Crisis,Red,2025-08-19 18:28:03,Admitted
+168,370,Convulsion,Red,2025-06-22 07:19:27,Admitted
+169,28,Gunshot,Green,2025-11-27 05:57:25,Admitted
+170,315,Asthma Attack,Green,2025-11-11 11:33:26,Admitted
+171,321,Gunshot,Red,2025-02-14 10:06:04,Deceased
+172,485,Gunshot,Red,2024-12-09 22:17:48,Treated & Discharged
+173,46,Asthma Attack,Yellow,2025-04-11 10:13:03,Treated & Discharged
+174,143,Labour Pain,Red,2024-07-29 02:29:48,Deceased
+175,68,Labour Pain,Green,2025-05-10 13:02:55,Deceased
+176,57,Road Accident,Yellow,2024-07-10 23:00:05,Treated & Discharged
+177,296,Hypertension Crisis,Green,2025-05-27 17:18:15,Admitted
+178,359,Road Accident,Green,2026-01-25 21:42:28,Admitted
+179,377,Labour Pain,Green,2024-05-06 22:25:53,Admitted
+180,66,Road Accident,Green,2025-06-03 15:40:39,Admitted
+181,26,Asthma Attack,Green,2024-08-15 09:46:45,Deceased
+182,77,Gunshot,Red,2026-01-28 02:35:34,Admitted
+183,368,Convulsion,Yellow,2025-01-14 13:26:37,Treated & Discharged
+184,436,Gunshot,Green,2026-02-09 19:54:01,Admitted
+185,125,Asthma Attack,Green,2025-01-21 18:23:42,Admitted
+186,22,Gunshot,Green,2025-04-09 09:03:48,Admitted
+187,214,Asthma Attack,Red,2024-12-04 08:12:04,Treated & Discharged
+188,130,Convulsion,Red,2025-07-22 12:06:59,Admitted
+189,350,Road Accident,Yellow,2025-01-01 02:14:14,Deceased
+190,407,Hypertension Crisis,Red,2024-11-08 19:09:15,Treated & Discharged
+191,234,Convulsion,Yellow,2025-01-24 06:13:20,Treated & Discharged
+192,463,Hypertension Crisis,Red,2025-11-24 19:20:18,Deceased
+193,276,Gunshot,Red,2025-05-04 23:37:38,Admitted
+194,351,Road Accident,Green,2024-07-24 09:43:22,Admitted
+195,307,Road Accident,Yellow,2025-04-03 13:53:53,Deceased
+196,453,Labour Pain,Green,2026-01-19 15:09:30,Admitted
+197,241,Asthma Attack,Yellow,2025-05-24 00:47:59,Deceased
+198,21,Gunshot,Green,2025-06-06 19:17:15,Deceased
+199,490,Hypertension Crisis,Red,2024-06-03 06:25:48,Admitted
+200,484,Road Accident,Yellow,2025-03-26 13:10:30,Admitted
+201,432,Labour Pain,Green,2024-08-02 04:03:33,Treated & Discharged
+202,35,Hypertension Crisis,Yellow,2026-02-01 05:19:11,Treated & Discharged
+203,84,Gunshot,Green,2025-01-29 19:38:04,Admitted
+204,411,Gunshot,Red,2024-10-08 00:18:43,Treated & Discharged
+205,250,Road Accident,Green,2025-08-30 22:01:02,Admitted
+206,188,Convulsion,Green,2024-12-04 05:34:46,Treated & Discharged
+207,497,Convulsion,Yellow,2024-09-06 21:11:29,Treated & Discharged
+208,489,Road Accident,Yellow,2025-05-08 23:26:24,Admitted
+209,359,Convulsion,Red,2026-01-23 16:39:23,Admitted
+210,293,Hypertension Crisis,Yellow,2024-04-15 22:20:06,Treated & Discharged
+211,186,Road Accident,Yellow,2024-03-14 06:27:27,Deceased
+212,147,Asthma Attack,Yellow,2025-05-17 07:24:41,Deceased
+213,19,Convulsion,Yellow,2025-04-29 06:08:49,Treated & Discharged
+214,101,Labour Pain,Yellow,2024-04-27 00:25:30,Deceased
+215,395,Gunshot,Green,2026-01-17 16:19:26,Admitted
+216,291,Convulsion,Yellow,2026-02-09 17:08:06,Admitted
+217,155,Labour Pain,Green,2025-04-07 20:18:39,Treated & Discharged
+218,86,Convulsion,Red,2024-09-02 09:36:43,Admitted
+219,434,Gunshot,Yellow,2025-05-22 10:21:07,Admitted
+220,223,Road Accident,Red,2025-10-09 21:16:37,Treated & Discharged
+221,496,Gunshot,Yellow,2024-05-24 09:03:27,Admitted
+222,403,Convulsion,Green,2024-03-14 05:10:08,Admitted
+223,471,Labour Pain,Yellow,2024-05-20 01:38:53,Deceased
+224,285,Labour Pain,Yellow,2024-07-24 14:13:53,Treated & Discharged
+225,345,Gunshot,Red,2026-01-08 17:32:30,Deceased
+226,264,Hypertension Crisis,Green,2025-12-25 11:03:13,Admitted
+227,274,Labour Pain,Yellow,2025-08-21 06:36:40,Deceased
+228,487,Labour Pain,Green,2025-08-04 22:52:56,Admitted
+229,379,Hypertension Crisis,Yellow,2025-09-30 23:15:44,Admitted
+230,328,Gunshot,Green,2025-12-12 12:35:03,Treated & Discharged
+231,465,Labour Pain,Red,2025-05-24 05:30:23,Deceased
+232,308,Hypertension Crisis,Green,2024-03-20 23:34:42,Treated & Discharged
+233,135,Gunshot,Red,2025-11-27 12:21:09,Deceased
+234,174,Gunshot,Red,2025-02-17 01:23:31,Deceased
+235,495,Asthma Attack,Yellow,2024-09-29 09:22:10,Admitted
+236,456,Asthma Attack,Green,2025-07-17 11:59:54,Admitted
+237,187,Hypertension Crisis,Red,2026-02-03 10:55:20,Admitted
+238,126,Asthma Attack,Red,2025-12-15 15:08:21,Admitted
+239,415,Labour Pain,Red,2025-03-04 02:43:44,Admitted
+240,41,Labour Pain,Yellow,2024-11-19 18:27:57,Deceased
+241,271,Convulsion,Yellow,2025-11-19 18:07:00,Admitted
+242,192,Labour Pain,Yellow,2025-06-04 04:30:34,Treated & Discharged
+243,443,Convulsion,Green,2025-09-20 13:35:22,Treated & Discharged
+244,470,Labour Pain,Green,2025-05-26 01:38:26,Deceased
+245,138,Convulsion,Yellow,2025-06-30 19:58:59,Treated & Discharged
+246,206,Hypertension Crisis,Green,2024-09-10 19:33:15,Deceased
+247,409,Asthma Attack,Green,2024-12-12 00:15:16,Deceased
+248,172,Gunshot,Yellow,2026-01-13 20:01:34,Admitted
+249,224,Asthma Attack,Green,2026-02-24 11:36:51,Treated & Discharged
+250,439,Asthma Attack,Yellow,2024-04-16 03:46:26,Treated & Discharged
+251,477,Labour Pain,Green,2025-08-22 10:01:22,Deceased
+252,196,Road Accident,Yellow,2025-11-21 17:01:56,Admitted
+253,464,Asthma Attack,Red,2024-11-06 17:00:36,Admitted
+254,91,Asthma Attack,Yellow,2025-06-29 07:44:17,Treated & Discharged
+255,12,Hypertension Crisis,Green,2025-12-27 21:02:02,Admitted
+256,294,Asthma Attack,Green,2026-02-10 09:07:33,Treated & Discharged
+257,261,Road Accident,Yellow,2025-05-25 22:19:25,Admitted
+258,390,Convulsion,Green,2024-08-20 05:04:42,Admitted
+259,166,Asthma Attack,Green,2025-02-09 08:10:07,Treated & Discharged
+260,204,Asthma Attack,Yellow,2026-02-25 20:35:55,Admitted
+261,58,Gunshot,Red,2024-10-12 21:07:58,Treated & Discharged
+262,446,Asthma Attack,Red,2025-03-28 12:18:31,Admitted
+263,189,Labour Pain,Green,2025-02-12 14:04:48,Admitted
+264,137,Gunshot,Yellow,2025-02-03 11:45:40,Admitted
+265,478,Asthma Attack,Red,2024-05-05 21:49:57,Deceased
+266,489,Asthma Attack,Green,2025-09-18 10:12:36,Deceased
+267,299,Gunshot,Red,2025-04-03 12:41:09,Admitted
+268,482,Convulsion,Red,2024-10-29 12:49:48,Treated & Discharged
+269,398,Asthma Attack,Yellow,2024-08-05 23:29:08,Admitted
+270,368,Road Accident,Yellow,2025-03-26 09:42:23,Deceased
+271,212,Gunshot,Green,2024-04-22 12:34:56,Treated & Discharged
+272,116,Road Accident,Green,2025-09-23 00:34:46,Admitted
+273,16,Hypertension Crisis,Green,2024-08-25 22:55:51,Deceased
+274,375,Road Accident,Yellow,2025-05-24 22:15:22,Deceased
+275,421,Asthma Attack,Red,2024-05-02 16:42:01,Admitted
+276,478,Road Accident,Red,2025-06-14 18:41:13,Treated & Discharged
+277,374,Hypertension Crisis,Yellow,2024-08-09 10:22:06,Admitted
+278,470,Hypertension Crisis,Yellow,2025-11-08 22:18:31,Treated & Discharged
+279,81,Gunshot,Yellow,2026-01-05 14:14:26,Deceased
+280,144,Labour Pain,Red,2025-09-09 03:50:34,Treated & Discharged
+281,456,Hypertension Crisis,Yellow,2025-05-11 03:59:59,Treated & Discharged
+282,137,Labour Pain,Green,2025-09-10 04:59:43,Deceased
+283,256,Road Accident,Red,2025-04-10 14:07:55,Treated & Discharged
+284,100,Labour Pain,Red,2024-03-16 11:05:51,Deceased
+285,479,Labour Pain,Red,2025-04-27 18:07:35,Deceased
+286,271,Convulsion,Yellow,2025-08-08 03:50:23,Deceased
+287,421,Gunshot,Red,2024-09-09 01:20:59,Treated & Discharged
+288,237,Convulsion,Red,2026-01-10 12:42:34,Deceased
+289,221,Convulsion,Green,2024-06-17 11:33:17,Treated & Discharged
+290,209,Gunshot,Red,2024-07-13 07:53:21,Treated & Discharged
+291,2,Road Accident,Yellow,2025-07-26 19:09:45,Admitted
+292,331,Road Accident,Green,2026-01-01 22:56:01,Deceased
+293,183,Gunshot,Yellow,2024-12-09 21:50:00,Deceased
+294,33,Road Accident,Yellow,2024-07-10 12:29:54,Treated & Discharged
+295,333,Hypertension Crisis,Green,2024-07-15 11:41:26,Admitted
+296,19,Road Accident,Red,2025-08-27 15:42:31,Treated & Discharged
+297,439,Labour Pain,Red,2025-10-28 22:27:42,Deceased
+298,66,Road Accident,Yellow,2026-02-07 10:06:45,Admitted
+299,164,Convulsion,Green,2025-01-17 22:01:55,Admitted
+300,62,Convulsion,Red,2024-11-24 04:45:57,Deceased

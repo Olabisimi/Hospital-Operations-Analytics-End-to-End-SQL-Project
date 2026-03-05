@@ -1,0 +1,1001 @@
+prescription_id,patient_id,doctor_id,drug,dosage,duration_days,date
+1,471,32,Vitamin C,3x daily,6,2026-02-11
+2,12,54,Amoxicillin,1x daily,5,2024-06-26
+3,91,118,Amoxicillin,1x daily,21,2024-07-31
+4,411,78,Amoxicillin,1x daily,3,2026-01-11
+5,371,7,Vitamin C,3x daily,5,2024-03-20
+6,80,196,Blood Tonic,3x daily,30,2025-06-24
+7,170,50,Amoxicillin,1x daily,25,2024-10-01
+8,72,72,Amoxicillin,1x daily,5,2024-08-14
+9,368,32,Paracetamol,2x daily,28,2025-07-24
+10,352,76,Artemether,1x daily,25,2024-06-13
+11,41,120,Vitamin C,3x daily,19,2025-10-30
+12,99,151,Artemether,3x daily,18,2025-05-27
+13,310,66,Blood Tonic,2x daily,26,2024-07-13
+14,347,196,Paracetamol,2x daily,8,2024-06-02
+15,260,7,Amoxicillin,1x daily,9,2024-10-01
+16,135,62,Artemether,3x daily,6,2025-05-03
+17,360,25,Artemether,1x daily,30,2024-03-31
+18,165,76,Chloroquine,2x daily,23,2025-03-28
+19,429,196,Ibuprofen,3x daily,16,2025-11-16
+20,260,83,Artemether,2x daily,11,2024-04-16
+21,423,115,Artemether,3x daily,3,2024-05-31
+22,336,81,Ibuprofen,1x daily,5,2024-03-06
+23,32,25,Blood Tonic,2x daily,26,2025-06-21
+24,31,125,Amoxicillin,3x daily,27,2025-06-08
+25,461,130,Paracetamol,3x daily,24,2024-09-05
+26,46,95,Vitamin C,3x daily,24,2024-04-18
+27,311,25,Ibuprofen,3x daily,29,2025-06-22
+28,164,130,Vitamin C,3x daily,28,2024-08-16
+29,246,118,Blood Tonic,2x daily,27,2025-07-15
+30,251,95,Artemether,1x daily,21,2025-07-24
+31,88,13,Vitamin C,2x daily,17,2025-01-01
+32,451,147,Vitamin C,2x daily,17,2026-02-16
+33,445,147,Blood Tonic,1x daily,7,2024-04-01
+34,378,120,Insulin,1x daily,30,2024-12-23
+35,72,95,Insulin,3x daily,7,2025-06-15
+36,205,118,Paracetamol,2x daily,28,2025-08-20
+37,419,66,Chloroquine,3x daily,8,2024-04-17
+38,112,50,Paracetamol,2x daily,18,2025-12-06
+39,77,82,Vitamin C,1x daily,3,2025-06-17
+40,255,122,Chloroquine,2x daily,29,2025-06-18
+41,490,185,Ibuprofen,1x daily,9,2025-12-23
+42,250,168,Insulin,2x daily,30,2026-02-05
+43,82,168,Paracetamol,2x daily,6,2025-06-30
+44,35,95,Blood Tonic,3x daily,12,2025-04-26
+45,73,78,Blood Tonic,1x daily,16,2025-08-23
+46,252,7,Ibuprofen,3x daily,8,2025-07-27
+47,174,93,Insulin,3x daily,6,2025-08-25
+48,307,54,Ibuprofen,2x daily,26,2026-02-04
+49,192,54,Vitamin C,3x daily,18,2024-03-18
+50,33,8,Blood Tonic,2x daily,16,2024-08-25
+51,127,74,Vitamin C,3x daily,10,2025-08-06
+52,466,95,Blood Tonic,2x daily,20,2025-09-21
+53,175,194,Vitamin C,3x daily,9,2024-11-15
+54,462,54,Vitamin C,3x daily,21,2026-02-14
+55,498,76,Artemether,1x daily,18,2024-08-03
+56,289,151,Paracetamol,2x daily,19,2025-08-04
+57,451,50,Insulin,1x daily,22,2025-03-19
+58,165,32,Blood Tonic,2x daily,22,2025-12-10
+59,462,82,Amoxicillin,2x daily,15,2025-01-07
+60,399,72,Ibuprofen,3x daily,7,2024-07-22
+61,187,22,Blood Tonic,1x daily,10,2024-07-29
+62,325,7,Vitamin C,2x daily,29,2025-03-09
+63,318,151,Chloroquine,2x daily,13,2025-06-06
+64,249,95,Artemether,3x daily,9,2024-08-25
+65,491,53,Ibuprofen,3x daily,4,2024-03-17
+66,377,72,Ibuprofen,1x daily,28,2025-03-10
+67,193,125,Paracetamol,2x daily,11,2025-03-27
+68,105,62,Ibuprofen,1x daily,3,2025-04-10
+69,334,124,Amoxicillin,2x daily,17,2026-02-08
+70,398,62,Blood Tonic,3x daily,15,2025-08-02
+71,285,65,Blood Tonic,2x daily,6,2025-12-10
+72,480,82,Blood Tonic,2x daily,9,2026-01-12
+73,362,147,Ibuprofen,1x daily,21,2025-03-30
+74,66,95,Paracetamol,1x daily,4,2025-05-22
+75,445,95,Blood Tonic,2x daily,7,2025-01-18
+76,162,120,Paracetamol,3x daily,16,2024-06-22
+77,331,95,Insulin,1x daily,13,2026-01-01
+78,314,13,Ibuprofen,2x daily,21,2025-02-05
+79,388,194,Paracetamol,3x daily,4,2025-11-02
+80,371,54,Blood Tonic,1x daily,5,2025-11-09
+81,72,62,Amoxicillin,3x daily,8,2025-02-01
+82,482,78,Amoxicillin,2x daily,14,2024-08-05
+83,174,32,Insulin,2x daily,27,2025-08-24
+84,36,168,Insulin,3x daily,4,2024-03-15
+85,269,124,Insulin,3x daily,7,2024-09-15
+86,281,32,Artemether,2x daily,8,2024-08-21
+87,60,81,Artemether,1x daily,4,2024-06-25
+88,331,185,Paracetamol,1x daily,23,2025-08-15
+89,432,76,Blood Tonic,1x daily,4,2025-12-31
+90,113,76,Chloroquine,1x daily,19,2025-08-14
+91,164,95,Insulin,3x daily,24,2024-10-25
+92,203,8,Ibuprofen,2x daily,3,2024-09-03
+93,343,124,Amoxicillin,1x daily,9,2026-01-05
+94,302,13,Artemether,1x daily,21,2025-11-17
+95,252,7,Vitamin C,3x daily,5,2025-06-20
+96,298,118,Chloroquine,2x daily,9,2026-02-25
+97,78,181,Paracetamol,3x daily,26,2024-03-21
+98,319,83,Ibuprofen,3x daily,14,2025-11-08
+99,262,120,Chloroquine,1x daily,27,2025-08-04
+100,312,81,Vitamin C,1x daily,13,2024-07-07
+101,460,81,Insulin,1x daily,23,2024-10-08
+102,147,130,Paracetamol,2x daily,22,2025-09-17
+103,496,178,Insulin,1x daily,8,2025-07-14
+104,58,13,Insulin,1x daily,26,2025-08-08
+105,478,74,Artemether,3x daily,26,2025-02-11
+106,383,93,Artemether,3x daily,29,2025-08-26
+107,156,118,Blood Tonic,1x daily,23,2024-11-09
+108,321,76,Ibuprofen,1x daily,19,2024-05-11
+109,13,93,Paracetamol,1x daily,29,2025-08-15
+110,93,101,Artemether,2x daily,26,2024-03-14
+111,199,95,Blood Tonic,2x daily,22,2025-11-15
+112,386,65,Blood Tonic,2x daily,20,2025-06-07
+113,306,83,Artemether,1x daily,22,2025-08-09
+114,55,7,Paracetamol,3x daily,4,2025-09-12
+115,439,7,Ibuprofen,1x daily,12,2024-06-20
+116,228,120,Chloroquine,1x daily,4,2025-01-22
+117,189,74,Artemether,2x daily,26,2024-11-23
+118,449,118,Amoxicillin,2x daily,16,2025-09-21
+119,335,8,Ibuprofen,1x daily,6,2024-07-12
+120,155,62,Ibuprofen,2x daily,28,2024-06-23
+121,469,74,Amoxicillin,3x daily,26,2024-03-26
+122,488,8,Blood Tonic,1x daily,3,2024-12-15
+123,58,32,Artemether,2x daily,30,2024-04-18
+124,454,196,Ibuprofen,2x daily,3,2026-01-11
+125,360,194,Blood Tonic,1x daily,26,2024-12-31
+126,355,62,Artemether,1x daily,15,2025-10-04
+127,348,120,Paracetamol,1x daily,18,2025-10-21
+128,222,147,Insulin,1x daily,3,2024-07-31
+129,296,13,Amoxicillin,2x daily,25,2024-07-11
+130,145,151,Artemether,2x daily,3,2025-03-14
+131,344,82,Artemether,1x daily,25,2025-02-14
+132,230,7,Paracetamol,3x daily,29,2025-03-01
+133,439,125,Blood Tonic,1x daily,25,2024-09-02
+134,435,22,Ibuprofen,2x daily,5,2026-01-30
+135,307,118,Blood Tonic,2x daily,20,2025-06-06
+136,84,118,Vitamin C,3x daily,20,2025-11-14
+137,277,62,Vitamin C,3x daily,23,2025-12-20
+138,178,124,Chloroquine,3x daily,15,2024-09-06
+139,191,147,Vitamin C,2x daily,7,2024-09-20
+140,417,168,Insulin,2x daily,16,2025-02-14
+141,45,81,Chloroquine,2x daily,14,2026-02-13
+142,331,147,Blood Tonic,3x daily,30,2025-03-24
+143,349,65,Paracetamol,2x daily,19,2025-11-02
+144,471,62,Vitamin C,3x daily,23,2025-11-26
+145,426,65,Chloroquine,1x daily,29,2024-12-04
+146,355,122,Amoxicillin,2x daily,6,2024-06-15
+147,257,181,Paracetamol,3x daily,6,2025-05-08
+148,295,7,Ibuprofen,3x daily,24,2024-05-22
+149,483,65,Artemether,3x daily,25,2025-06-29
+150,404,101,Blood Tonic,1x daily,13,2025-12-20
+151,375,118,Insulin,3x daily,24,2024-06-27
+152,420,122,Artemether,3x daily,14,2025-07-11
+153,384,124,Amoxicillin,1x daily,23,2024-12-25
+154,330,147,Chloroquine,3x daily,27,2026-01-29
+155,97,7,Amoxicillin,2x daily,7,2025-04-23
+156,469,25,Ibuprofen,1x daily,27,2024-06-21
+157,208,93,Artemether,3x daily,23,2025-02-20
+158,50,72,Paracetamol,1x daily,3,2025-06-27
+159,152,53,Artemether,1x daily,29,2025-06-13
+160,398,25,Amoxicillin,2x daily,17,2025-08-07
+161,487,53,Insulin,2x daily,24,2025-08-30
+162,207,7,Ibuprofen,2x daily,15,2025-05-01
+163,192,74,Ibuprofen,2x daily,22,2026-01-04
+164,302,151,Paracetamol,3x daily,18,2024-08-20
+165,17,168,Vitamin C,2x daily,3,2024-09-12
+166,131,151,Insulin,3x daily,27,2025-06-27
+167,51,125,Vitamin C,3x daily,18,2025-11-07
+168,14,120,Paracetamol,2x daily,27,2025-08-11
+169,464,32,Blood Tonic,2x daily,20,2025-06-12
+170,48,32,Artemether,3x daily,29,2025-07-24
+171,367,50,Blood Tonic,2x daily,26,2025-10-27
+172,173,78,Blood Tonic,1x daily,13,2025-07-06
+173,159,185,Blood Tonic,1x daily,22,2024-07-02
+174,211,50,Paracetamol,3x daily,7,2025-06-11
+175,304,8,Blood Tonic,1x daily,19,2024-11-04
+176,93,147,Ibuprofen,3x daily,21,2025-01-18
+177,199,181,Paracetamol,2x daily,21,2025-07-07
+178,61,180,Blood Tonic,1x daily,17,2024-09-18
+179,151,65,Paracetamol,2x daily,22,2025-07-30
+180,170,125,Amoxicillin,3x daily,7,2025-05-24
+181,496,25,Artemether,2x daily,18,2025-08-28
+182,128,7,Insulin,3x daily,28,2024-10-13
+183,335,66,Insulin,1x daily,12,2025-06-09
+184,94,76,Vitamin C,3x daily,21,2024-12-05
+185,433,168,Artemether,3x daily,17,2025-04-09
+186,414,53,Amoxicillin,1x daily,7,2026-01-03
+187,68,194,Paracetamol,2x daily,18,2025-03-01
+188,188,125,Paracetamol,3x daily,19,2024-11-04
+189,460,118,Amoxicillin,2x daily,18,2025-07-11
+190,18,82,Insulin,3x daily,25,2025-05-06
+191,217,25,Amoxicillin,1x daily,11,2024-04-16
+192,450,115,Blood Tonic,2x daily,19,2026-01-25
+193,471,78,Chloroquine,1x daily,3,2026-02-23
+194,83,32,Chloroquine,3x daily,9,2025-08-31
+195,229,181,Vitamin C,3x daily,11,2025-11-05
+196,245,25,Chloroquine,3x daily,16,2024-06-11
+197,60,185,Paracetamol,1x daily,9,2024-08-08
+198,76,93,Chloroquine,3x daily,25,2025-01-30
+199,201,7,Vitamin C,1x daily,19,2025-11-08
+200,404,7,Amoxicillin,3x daily,24,2024-05-28
+201,137,196,Paracetamol,2x daily,28,2024-10-05
+202,71,95,Artemether,2x daily,28,2025-01-25
+203,110,72,Blood Tonic,2x daily,18,2025-02-17
+204,110,50,Chloroquine,2x daily,20,2024-08-05
+205,325,181,Amoxicillin,1x daily,24,2026-01-02
+206,66,178,Chloroquine,1x daily,18,2024-03-13
+207,263,25,Chloroquine,1x daily,23,2024-06-29
+208,386,124,Vitamin C,1x daily,29,2025-10-15
+209,135,124,Paracetamol,2x daily,4,2025-08-08
+210,446,95,Insulin,1x daily,9,2025-10-13
+211,344,118,Insulin,2x daily,22,2025-05-27
+212,429,76,Chloroquine,2x daily,22,2024-06-18
+213,487,178,Insulin,3x daily,30,2025-07-15
+214,387,65,Artemether,3x daily,19,2024-03-17
+215,148,168,Amoxicillin,2x daily,22,2025-08-20
+216,16,124,Amoxicillin,3x daily,5,2025-11-16
+217,361,62,Paracetamol,2x daily,11,2024-05-16
+218,202,82,Blood Tonic,3x daily,28,2024-09-07
+219,470,101,Ibuprofen,3x daily,22,2026-01-22
+220,168,93,Blood Tonic,3x daily,18,2025-01-14
+221,198,196,Chloroquine,2x daily,13,2025-12-23
+222,47,168,Vitamin C,3x daily,19,2024-03-16
+223,316,25,Ibuprofen,3x daily,11,2026-02-15
+224,479,82,Ibuprofen,3x daily,19,2024-07-23
+225,117,95,Vitamin C,1x daily,21,2024-04-23
+226,98,115,Ibuprofen,1x daily,29,2025-07-17
+227,172,180,Insulin,2x daily,11,2024-09-26
+228,307,125,Artemether,3x daily,28,2025-01-07
+229,72,83,Artemether,3x daily,24,2024-06-12
+230,186,181,Vitamin C,1x daily,28,2025-02-20
+231,237,196,Chloroquine,1x daily,26,2025-03-31
+232,371,83,Artemether,1x daily,22,2025-11-11
+233,405,101,Chloroquine,3x daily,28,2025-04-11
+234,255,118,Artemether,2x daily,18,2025-04-29
+235,368,82,Blood Tonic,3x daily,13,2025-07-13
+236,75,81,Amoxicillin,2x daily,6,2024-12-22
+237,495,120,Insulin,1x daily,5,2024-12-07
+238,97,81,Blood Tonic,2x daily,20,2025-03-05
+239,299,82,Insulin,1x daily,11,2024-12-27
+240,27,125,Blood Tonic,3x daily,6,2025-06-30
+241,244,125,Insulin,2x daily,6,2025-06-21
+242,72,66,Amoxicillin,2x daily,27,2025-12-04
+243,411,22,Paracetamol,1x daily,11,2025-01-08
+244,56,185,Ibuprofen,1x daily,28,2025-10-30
+245,50,125,Artemether,1x daily,24,2025-06-25
+246,291,22,Paracetamol,1x daily,13,2024-12-15
+247,320,82,Ibuprofen,2x daily,10,2024-10-13
+248,119,76,Ibuprofen,3x daily,14,2024-12-14
+249,431,78,Chloroquine,1x daily,20,2024-04-01
+250,300,95,Artemether,1x daily,28,2025-08-02
+251,495,120,Artemether,3x daily,22,2024-08-18
+252,9,65,Amoxicillin,3x daily,26,2024-03-06
+253,315,82,Blood Tonic,1x daily,6,2025-02-15
+254,127,124,Artemether,1x daily,17,2024-05-28
+255,313,65,Chloroquine,1x daily,11,2026-01-09
+256,55,7,Artemether,3x daily,12,2025-08-28
+257,223,196,Insulin,2x daily,9,2024-05-28
+258,119,50,Amoxicillin,2x daily,25,2024-07-07
+259,228,130,Chloroquine,3x daily,15,2025-09-07
+260,436,120,Paracetamol,3x daily,27,2024-03-05
+261,140,74,Blood Tonic,2x daily,28,2025-02-28
+262,449,180,Vitamin C,2x daily,3,2024-04-13
+263,256,178,Insulin,2x daily,22,2025-10-02
+264,106,118,Chloroquine,3x daily,5,2025-07-12
+265,308,120,Chloroquine,2x daily,9,2025-06-27
+266,112,95,Vitamin C,2x daily,11,2024-03-04
+267,128,83,Artemether,2x daily,22,2025-09-21
+268,450,151,Paracetamol,3x daily,21,2025-07-05
+269,125,25,Blood Tonic,3x daily,28,2026-02-02
+270,12,120,Vitamin C,2x daily,15,2024-06-06
+271,11,168,Insulin,3x daily,17,2025-03-17
+272,466,125,Amoxicillin,2x daily,11,2024-08-01
+273,179,76,Ibuprofen,2x daily,11,2024-03-25
+274,246,65,Chloroquine,1x daily,30,2025-03-09
+275,300,180,Artemether,1x daily,15,2025-10-30
+276,187,22,Artemether,1x daily,25,2025-02-22
+277,469,65,Amoxicillin,3x daily,25,2024-06-10
+278,284,22,Ibuprofen,1x daily,19,2024-11-22
+279,478,81,Blood Tonic,1x daily,12,2025-11-21
+280,73,125,Ibuprofen,1x daily,10,2024-08-19
+281,210,93,Chloroquine,3x daily,5,2025-04-26
+282,119,32,Paracetamol,3x daily,23,2024-03-18
+283,401,66,Ibuprofen,3x daily,18,2026-01-19
+284,483,125,Chloroquine,1x daily,3,2024-10-18
+285,414,72,Amoxicillin,1x daily,27,2024-07-09
+286,52,82,Chloroquine,3x daily,6,2026-01-03
+287,399,147,Vitamin C,3x daily,8,2025-12-30
+288,79,181,Chloroquine,1x daily,28,2024-09-15
+289,5,95,Chloroquine,2x daily,19,2025-08-24
+290,417,8,Paracetamol,2x daily,7,2025-04-26
+291,86,22,Blood Tonic,1x daily,30,2024-08-08
+292,68,78,Vitamin C,3x daily,28,2025-12-29
+293,143,147,Artemether,2x daily,8,2025-07-31
+294,364,53,Artemether,1x daily,23,2024-07-28
+295,311,13,Amoxicillin,2x daily,7,2025-01-05
+296,1,83,Blood Tonic,3x daily,28,2025-01-18
+297,251,122,Insulin,3x daily,17,2025-02-19
+298,493,180,Vitamin C,3x daily,21,2025-05-10
+299,368,122,Ibuprofen,3x daily,16,2024-07-08
+300,86,178,Blood Tonic,1x daily,28,2025-11-10
+301,19,74,Amoxicillin,3x daily,14,2025-04-22
+302,432,93,Amoxicillin,3x daily,16,2026-01-23
+303,196,120,Ibuprofen,2x daily,3,2024-09-02
+304,162,168,Artemether,1x daily,9,2024-03-29
+305,223,62,Blood Tonic,3x daily,28,2026-01-22
+306,389,54,Ibuprofen,2x daily,10,2024-09-09
+307,73,8,Artemether,2x daily,11,2026-01-19
+308,250,122,Blood Tonic,3x daily,17,2025-01-18
+309,191,74,Blood Tonic,1x daily,16,2025-06-15
+310,492,22,Artemether,1x daily,23,2025-05-20
+311,473,50,Ibuprofen,2x daily,4,2025-06-24
+312,180,147,Insulin,3x daily,30,2024-05-02
+313,222,25,Ibuprofen,2x daily,29,2024-06-07
+314,263,185,Blood Tonic,1x daily,30,2025-08-30
+315,434,151,Amoxicillin,2x daily,13,2025-10-05
+316,100,93,Chloroquine,1x daily,6,2025-03-14
+317,75,185,Ibuprofen,1x daily,3,2025-07-09
+318,261,74,Vitamin C,1x daily,17,2025-06-25
+319,207,101,Blood Tonic,2x daily,22,2025-02-09
+320,168,83,Vitamin C,1x daily,28,2025-06-19
+321,265,196,Amoxicillin,2x daily,27,2024-09-16
+322,250,125,Paracetamol,3x daily,27,2024-10-18
+323,281,194,Amoxicillin,1x daily,29,2025-05-04
+324,194,101,Blood Tonic,3x daily,26,2024-08-19
+325,326,82,Chloroquine,1x daily,27,2024-08-16
+326,469,72,Amoxicillin,3x daily,15,2024-05-10
+327,142,122,Artemether,1x daily,4,2026-01-09
+328,156,7,Chloroquine,1x daily,16,2025-04-17
+329,292,72,Insulin,1x daily,16,2025-02-27
+330,281,194,Ibuprofen,1x daily,3,2024-07-18
+331,34,65,Paracetamol,2x daily,26,2024-06-19
+332,248,25,Artemether,2x daily,8,2024-10-19
+333,474,168,Amoxicillin,1x daily,24,2025-09-17
+334,236,101,Vitamin C,2x daily,11,2025-09-09
+335,296,185,Vitamin C,3x daily,24,2025-10-16
+336,168,180,Chloroquine,3x daily,24,2025-07-09
+337,428,196,Ibuprofen,3x daily,27,2024-06-02
+338,460,78,Artemether,1x daily,16,2024-12-10
+339,248,82,Vitamin C,3x daily,12,2024-04-24
+340,256,122,Paracetamol,3x daily,12,2026-02-02
+341,411,81,Amoxicillin,1x daily,20,2025-11-15
+342,115,76,Artemether,2x daily,7,2024-07-08
+343,475,50,Vitamin C,2x daily,26,2025-04-28
+344,205,124,Vitamin C,2x daily,5,2026-02-02
+345,125,65,Blood Tonic,3x daily,5,2025-07-01
+346,397,95,Paracetamol,2x daily,15,2025-07-15
+347,418,125,Chloroquine,2x daily,18,2026-01-17
+348,16,101,Vitamin C,1x daily,12,2024-07-21
+349,121,168,Blood Tonic,2x daily,21,2025-02-26
+350,110,122,Insulin,1x daily,12,2025-02-13
+351,125,65,Vitamin C,1x daily,22,2024-12-02
+352,168,196,Insulin,1x daily,6,2026-02-14
+353,43,32,Paracetamol,1x daily,20,2025-03-08
+354,220,168,Amoxicillin,3x daily,23,2025-06-03
+355,78,22,Paracetamol,2x daily,8,2025-03-26
+356,17,54,Ibuprofen,2x daily,24,2024-08-08
+357,352,115,Amoxicillin,1x daily,8,2026-01-11
+358,458,93,Vitamin C,1x daily,4,2024-03-17
+359,299,32,Paracetamol,3x daily,3,2025-01-07
+360,421,72,Chloroquine,2x daily,29,2025-05-29
+361,252,50,Ibuprofen,3x daily,12,2024-08-27
+362,316,180,Amoxicillin,3x daily,12,2025-09-18
+363,71,25,Blood Tonic,3x daily,30,2026-01-09
+364,134,65,Amoxicillin,2x daily,22,2024-05-24
+365,115,83,Paracetamol,2x daily,30,2025-08-24
+366,174,65,Blood Tonic,2x daily,14,2025-01-21
+367,488,178,Ibuprofen,2x daily,23,2024-07-28
+368,362,122,Insulin,1x daily,28,2025-02-08
+369,434,93,Vitamin C,1x daily,10,2025-12-14
+370,237,62,Chloroquine,1x daily,5,2025-10-21
+371,31,196,Amoxicillin,1x daily,6,2025-08-11
+372,230,54,Chloroquine,3x daily,5,2024-05-29
+373,145,101,Vitamin C,3x daily,10,2025-04-11
+374,368,151,Insulin,2x daily,6,2024-09-03
+375,477,185,Ibuprofen,3x daily,9,2024-05-24
+376,459,151,Paracetamol,2x daily,8,2025-01-22
+377,201,72,Vitamin C,1x daily,4,2025-12-25
+378,17,81,Insulin,1x daily,29,2024-11-17
+379,255,147,Insulin,3x daily,30,2025-02-23
+380,166,130,Chloroquine,2x daily,26,2025-08-11
+381,495,125,Vitamin C,3x daily,30,2024-05-23
+382,359,66,Paracetamol,1x daily,11,2024-07-15
+383,213,32,Blood Tonic,2x daily,7,2025-05-06
+384,22,54,Artemether,3x daily,22,2025-05-21
+385,254,82,Artemether,3x daily,8,2024-09-28
+386,214,13,Paracetamol,3x daily,14,2024-05-06
+387,365,101,Vitamin C,2x daily,3,2026-02-20
+388,54,151,Artemether,1x daily,7,2025-07-07
+389,171,178,Ibuprofen,3x daily,15,2024-09-14
+390,456,180,Artemether,2x daily,27,2024-10-14
+391,487,13,Blood Tonic,3x daily,21,2024-12-01
+392,281,83,Blood Tonic,1x daily,12,2025-06-08
+393,171,8,Insulin,3x daily,23,2025-07-21
+394,495,25,Blood Tonic,2x daily,17,2025-04-24
+395,469,194,Artemether,2x daily,29,2024-11-09
+396,303,76,Blood Tonic,2x daily,12,2024-05-22
+397,457,13,Artemether,3x daily,21,2025-08-04
+398,131,122,Ibuprofen,1x daily,19,2025-10-29
+399,118,13,Artemether,2x daily,10,2025-06-13
+400,204,7,Insulin,1x daily,5,2024-07-22
+401,411,82,Insulin,1x daily,19,2025-04-29
+402,445,93,Paracetamol,2x daily,21,2025-02-04
+403,110,181,Ibuprofen,1x daily,30,2024-07-07
+404,121,120,Vitamin C,1x daily,20,2024-07-31
+405,336,72,Paracetamol,3x daily,16,2025-01-27
+406,41,101,Artemether,2x daily,3,2025-10-30
+407,51,54,Ibuprofen,1x daily,24,2024-12-04
+408,150,81,Insulin,1x daily,16,2025-12-02
+409,105,65,Vitamin C,1x daily,27,2025-09-22
+410,478,83,Ibuprofen,3x daily,25,2024-09-06
+411,281,25,Amoxicillin,1x daily,30,2025-11-23
+412,63,7,Artemether,1x daily,27,2024-11-26
+413,395,82,Chloroquine,1x daily,27,2026-01-23
+414,232,101,Amoxicillin,3x daily,27,2024-05-10
+415,428,181,Blood Tonic,3x daily,6,2024-05-28
+416,247,82,Amoxicillin,2x daily,28,2025-05-11
+417,48,115,Chloroquine,2x daily,28,2024-02-28
+418,97,181,Ibuprofen,3x daily,3,2024-11-07
+419,467,32,Amoxicillin,1x daily,7,2024-05-31
+420,176,65,Artemether,2x daily,27,2024-07-02
+421,324,115,Paracetamol,2x daily,30,2025-08-02
+422,200,125,Amoxicillin,3x daily,27,2024-03-26
+423,416,122,Artemether,1x daily,9,2025-01-02
+424,318,151,Amoxicillin,3x daily,10,2025-08-08
+425,428,168,Blood Tonic,2x daily,13,2025-08-13
+426,329,118,Artemether,1x daily,4,2024-04-01
+427,232,72,Paracetamol,3x daily,14,2024-10-24
+428,9,118,Vitamin C,2x daily,26,2024-12-21
+429,429,7,Vitamin C,2x daily,5,2024-08-24
+430,69,50,Amoxicillin,3x daily,7,2024-05-09
+431,243,168,Vitamin C,1x daily,22,2024-03-30
+432,416,13,Vitamin C,1x daily,12,2024-12-01
+433,275,125,Ibuprofen,1x daily,30,2024-08-14
+434,55,22,Ibuprofen,3x daily,7,2025-08-24
+435,357,81,Insulin,1x daily,11,2025-03-19
+436,175,124,Amoxicillin,3x daily,14,2024-08-29
+437,39,168,Ibuprofen,3x daily,12,2024-05-09
+438,209,8,Paracetamol,2x daily,13,2025-10-05
+439,95,32,Chloroquine,3x daily,22,2026-02-07
+440,307,50,Vitamin C,1x daily,6,2025-06-01
+441,500,81,Vitamin C,2x daily,6,2026-02-09
+442,94,194,Artemether,3x daily,28,2025-03-04
+443,41,76,Paracetamol,2x daily,12,2024-10-13
+444,431,185,Amoxicillin,3x daily,20,2024-09-23
+445,479,194,Ibuprofen,3x daily,24,2024-05-31
+446,153,50,Insulin,1x daily,12,2025-02-13
+447,471,124,Amoxicillin,3x daily,13,2024-09-25
+448,138,22,Chloroquine,1x daily,6,2024-11-30
+449,486,196,Paracetamol,1x daily,18,2024-06-20
+450,22,151,Vitamin C,2x daily,20,2025-12-19
+451,55,81,Chloroquine,3x daily,20,2024-02-29
+452,459,78,Amoxicillin,2x daily,8,2025-06-22
+453,95,194,Amoxicillin,3x daily,28,2024-05-30
+454,9,151,Artemether,3x daily,25,2025-05-14
+455,65,65,Artemether,2x daily,3,2024-03-19
+456,349,180,Ibuprofen,3x daily,28,2025-09-14
+457,374,72,Blood Tonic,3x daily,10,2025-01-17
+458,31,125,Artemether,3x daily,24,2025-07-11
+459,199,72,Ibuprofen,2x daily,7,2026-02-16
+460,208,196,Insulin,3x daily,12,2025-10-06
+461,138,78,Amoxicillin,3x daily,16,2025-06-08
+462,131,168,Paracetamol,1x daily,15,2025-04-22
+463,303,72,Ibuprofen,3x daily,7,2024-12-18
+464,296,66,Amoxicillin,3x daily,10,2025-03-18
+465,68,13,Artemether,1x daily,26,2025-08-31
+466,24,25,Insulin,1x daily,9,2025-05-08
+467,142,53,Paracetamol,3x daily,9,2024-08-20
+468,368,53,Paracetamol,2x daily,6,2025-11-01
+469,175,74,Blood Tonic,1x daily,7,2025-05-09
+470,371,53,Vitamin C,2x daily,16,2024-08-16
+471,194,180,Ibuprofen,2x daily,24,2024-10-03
+472,104,62,Artemether,2x daily,14,2025-09-01
+473,97,78,Blood Tonic,2x daily,11,2026-02-26
+474,224,22,Ibuprofen,1x daily,16,2025-02-09
+475,238,65,Paracetamol,1x daily,26,2024-08-29
+476,235,180,Ibuprofen,1x daily,16,2024-07-12
+477,57,83,Chloroquine,2x daily,11,2026-01-04
+478,91,125,Paracetamol,2x daily,28,2025-12-07
+479,391,180,Amoxicillin,3x daily,17,2026-01-12
+480,179,93,Artemether,2x daily,9,2024-08-09
+481,353,82,Blood Tonic,2x daily,11,2024-09-19
+482,83,151,Artemether,2x daily,7,2024-10-17
+483,9,78,Blood Tonic,2x daily,10,2025-12-18
+484,486,185,Chloroquine,1x daily,11,2025-05-02
+485,370,118,Ibuprofen,3x daily,6,2025-10-11
+486,140,180,Ibuprofen,3x daily,15,2025-12-05
+487,11,25,Amoxicillin,1x daily,12,2024-03-17
+488,130,78,Chloroquine,3x daily,18,2025-01-16
+489,271,7,Chloroquine,1x daily,13,2025-01-07
+490,394,185,Insulin,3x daily,13,2024-03-25
+491,1,151,Artemether,1x daily,6,2025-01-04
+492,376,93,Insulin,2x daily,25,2025-03-15
+493,412,82,Artemether,3x daily,15,2024-11-22
+494,343,194,Vitamin C,1x daily,15,2025-04-27
+495,242,72,Artemether,2x daily,4,2024-03-20
+496,440,101,Vitamin C,2x daily,27,2024-04-12
+497,124,181,Vitamin C,2x daily,10,2026-01-06
+498,221,185,Paracetamol,3x daily,5,2025-07-06
+499,53,194,Chloroquine,1x daily,16,2026-01-23
+500,444,13,Artemether,2x daily,16,2024-05-12
+501,274,25,Amoxicillin,3x daily,20,2025-09-11
+502,226,54,Artemether,3x daily,9,2025-03-07
+503,112,118,Amoxicillin,1x daily,11,2025-05-15
+504,6,196,Insulin,1x daily,11,2025-03-21
+505,330,196,Blood Tonic,1x daily,5,2024-12-20
+506,175,78,Amoxicillin,1x daily,28,2025-06-02
+507,129,181,Artemether,1x daily,18,2025-05-15
+508,353,82,Chloroquine,3x daily,27,2025-02-11
+509,357,7,Blood Tonic,1x daily,28,2024-05-08
+510,211,101,Amoxicillin,1x daily,19,2024-09-18
+511,299,76,Ibuprofen,1x daily,16,2025-07-19
+512,357,115,Vitamin C,2x daily,20,2025-10-12
+513,357,65,Paracetamol,3x daily,6,2024-10-24
+514,322,194,Paracetamol,3x daily,11,2025-11-18
+515,99,66,Chloroquine,1x daily,26,2024-05-12
+516,24,66,Artemether,1x daily,9,2025-12-10
+517,68,83,Blood Tonic,1x daily,24,2024-05-05
+518,231,76,Chloroquine,1x daily,6,2025-11-20
+519,372,74,Vitamin C,3x daily,27,2025-05-08
+520,451,93,Insulin,1x daily,25,2024-12-16
+521,33,65,Blood Tonic,2x daily,3,2025-11-01
+522,88,118,Paracetamol,3x daily,8,2025-02-24
+523,351,124,Amoxicillin,1x daily,27,2024-11-25
+524,81,74,Amoxicillin,1x daily,16,2025-12-16
+525,56,125,Artemether,3x daily,29,2025-04-18
+526,86,82,Vitamin C,2x daily,8,2024-06-23
+527,425,181,Artemether,2x daily,16,2025-12-08
+528,89,130,Ibuprofen,2x daily,11,2025-05-27
+529,311,74,Paracetamol,1x daily,15,2025-10-12
+530,152,120,Blood Tonic,1x daily,30,2025-04-25
+531,298,53,Chloroquine,1x daily,10,2024-08-13
+532,378,181,Amoxicillin,3x daily,18,2024-09-20
+533,203,196,Chloroquine,1x daily,19,2024-11-26
+534,93,181,Artemether,1x daily,10,2024-06-13
+535,465,22,Amoxicillin,1x daily,20,2024-07-12
+536,283,32,Vitamin C,3x daily,20,2025-10-15
+537,48,81,Ibuprofen,2x daily,20,2024-05-27
+538,70,66,Paracetamol,2x daily,18,2024-08-29
+539,436,74,Chloroquine,1x daily,25,2024-11-07
+540,326,32,Chloroquine,3x daily,17,2024-04-09
+541,37,125,Amoxicillin,3x daily,27,2025-11-26
+542,165,147,Chloroquine,3x daily,11,2025-01-22
+543,434,101,Paracetamol,1x daily,27,2024-07-20
+544,6,8,Paracetamol,3x daily,3,2025-11-17
+545,43,95,Chloroquine,3x daily,28,2025-12-03
+546,327,196,Amoxicillin,1x daily,25,2024-05-11
+547,98,151,Amoxicillin,2x daily,28,2024-10-27
+548,458,181,Vitamin C,1x daily,28,2026-01-18
+549,323,8,Chloroquine,2x daily,13,2024-03-16
+550,195,53,Ibuprofen,2x daily,11,2024-08-30
+551,82,32,Chloroquine,3x daily,24,2024-06-03
+552,296,181,Blood Tonic,2x daily,18,2025-01-30
+553,268,25,Chloroquine,1x daily,29,2025-01-24
+554,391,83,Paracetamol,2x daily,15,2024-07-05
+555,241,13,Insulin,2x daily,3,2024-03-13
+556,23,22,Paracetamol,3x daily,11,2025-11-29
+557,454,78,Insulin,2x daily,23,2025-01-08
+558,175,32,Vitamin C,3x daily,19,2024-03-25
+559,141,180,Chloroquine,2x daily,15,2024-08-03
+560,289,53,Artemether,2x daily,7,2025-04-30
+561,409,82,Artemether,2x daily,14,2024-04-16
+562,339,22,Vitamin C,2x daily,29,2024-12-12
+563,88,194,Insulin,3x daily,4,2024-04-08
+564,283,13,Blood Tonic,1x daily,16,2024-11-17
+565,107,78,Insulin,3x daily,30,2025-07-20
+566,315,185,Blood Tonic,3x daily,14,2025-10-15
+567,403,8,Chloroquine,1x daily,5,2025-12-02
+568,32,82,Paracetamol,1x daily,30,2025-03-04
+569,201,81,Amoxicillin,3x daily,19,2025-05-19
+570,379,7,Ibuprofen,3x daily,26,2024-09-01
+571,133,66,Blood Tonic,2x daily,10,2025-08-21
+572,265,72,Insulin,3x daily,27,2025-07-01
+573,97,180,Amoxicillin,2x daily,11,2024-10-20
+574,125,62,Amoxicillin,1x daily,25,2026-02-09
+575,205,83,Chloroquine,3x daily,21,2024-05-31
+576,331,93,Insulin,2x daily,8,2024-11-11
+577,11,78,Insulin,3x daily,7,2025-10-20
+578,189,180,Insulin,1x daily,6,2025-07-09
+579,159,81,Amoxicillin,2x daily,30,2025-01-24
+580,21,120,Ibuprofen,3x daily,15,2025-07-24
+581,81,115,Vitamin C,2x daily,30,2024-07-09
+582,448,13,Chloroquine,2x daily,28,2025-09-20
+583,118,118,Vitamin C,3x daily,24,2025-07-17
+584,96,83,Artemether,3x daily,3,2025-11-26
+585,343,32,Blood Tonic,2x daily,12,2024-04-30
+586,211,82,Ibuprofen,3x daily,21,2025-01-28
+587,492,180,Paracetamol,1x daily,26,2024-07-26
+588,56,118,Artemether,3x daily,25,2025-10-27
+589,257,180,Chloroquine,2x daily,13,2025-01-11
+590,372,54,Blood Tonic,3x daily,29,2025-12-15
+591,357,22,Vitamin C,1x daily,12,2024-12-22
+592,352,22,Ibuprofen,1x daily,9,2025-11-14
+593,470,74,Artemether,2x daily,9,2024-04-01
+594,425,180,Ibuprofen,3x daily,13,2024-06-22
+595,453,53,Insulin,3x daily,10,2024-03-08
+596,414,62,Amoxicillin,1x daily,6,2024-11-28
+597,365,147,Blood Tonic,3x daily,28,2024-07-02
+598,64,181,Paracetamol,3x daily,9,2025-08-16
+599,124,196,Amoxicillin,3x daily,24,2024-06-14
+600,102,168,Artemether,1x daily,15,2025-03-08
+601,330,95,Artemether,1x daily,16,2025-06-05
+602,438,13,Amoxicillin,1x daily,27,2024-10-16
+603,314,178,Blood Tonic,2x daily,15,2025-04-09
+604,49,147,Insulin,3x daily,26,2024-03-18
+605,443,180,Paracetamol,1x daily,8,2024-05-16
+606,107,8,Paracetamol,3x daily,6,2024-10-27
+607,172,124,Amoxicillin,3x daily,7,2025-07-24
+608,429,180,Paracetamol,1x daily,25,2024-03-10
+609,194,101,Blood Tonic,3x daily,25,2025-04-02
+610,255,81,Ibuprofen,3x daily,6,2025-07-30
+611,492,124,Paracetamol,3x daily,24,2024-05-26
+612,110,122,Vitamin C,3x daily,28,2025-07-23
+613,178,54,Paracetamol,1x daily,12,2025-05-28
+614,310,25,Amoxicillin,3x daily,23,2024-11-05
+615,396,194,Ibuprofen,1x daily,20,2026-02-19
+616,150,76,Artemether,2x daily,19,2026-02-24
+617,245,101,Paracetamol,3x daily,7,2024-11-27
+618,388,124,Artemether,1x daily,29,2024-03-16
+619,371,65,Artemether,3x daily,22,2025-03-15
+620,259,62,Amoxicillin,1x daily,17,2024-07-07
+621,141,101,Vitamin C,2x daily,5,2025-04-12
+622,48,81,Paracetamol,3x daily,26,2025-04-30
+623,439,83,Chloroquine,3x daily,20,2025-10-17
+624,209,13,Vitamin C,3x daily,3,2025-02-12
+625,399,101,Artemether,2x daily,15,2026-02-13
+626,220,125,Paracetamol,3x daily,25,2025-08-22
+627,50,53,Chloroquine,2x daily,27,2024-10-18
+628,434,8,Paracetamol,1x daily,30,2026-01-28
+629,29,180,Artemether,2x daily,15,2025-03-20
+630,204,32,Paracetamol,2x daily,7,2025-12-26
+631,351,147,Amoxicillin,2x daily,26,2025-08-01
+632,109,50,Chloroquine,1x daily,11,2024-07-09
+633,460,101,Vitamin C,1x daily,29,2024-06-16
+634,221,178,Chloroquine,2x daily,21,2024-07-19
+635,56,168,Blood Tonic,2x daily,27,2024-06-30
+636,288,62,Artemether,3x daily,29,2025-03-18
+637,136,83,Paracetamol,1x daily,10,2025-08-11
+638,156,185,Paracetamol,3x daily,17,2025-05-05
+639,400,72,Vitamin C,2x daily,10,2025-01-25
+640,245,185,Chloroquine,2x daily,4,2024-10-10
+641,109,76,Vitamin C,3x daily,26,2025-07-23
+642,64,22,Amoxicillin,3x daily,14,2024-05-20
+643,232,8,Paracetamol,3x daily,14,2025-08-16
+644,290,196,Amoxicillin,2x daily,12,2025-01-13
+645,294,66,Paracetamol,3x daily,17,2026-02-07
+646,131,196,Chloroquine,2x daily,27,2024-04-17
+647,307,194,Insulin,3x daily,21,2024-11-03
+648,414,120,Ibuprofen,3x daily,23,2025-01-25
+649,310,147,Amoxicillin,3x daily,12,2025-11-18
+650,75,181,Vitamin C,3x daily,15,2025-06-02
+651,327,194,Artemether,1x daily,13,2024-04-07
+652,290,50,Ibuprofen,1x daily,27,2025-05-09
+653,257,93,Artemether,1x daily,9,2024-10-02
+654,56,66,Artemether,2x daily,27,2025-12-21
+655,73,125,Insulin,3x daily,20,2024-06-15
+656,492,22,Insulin,3x daily,25,2025-10-09
+657,12,185,Blood Tonic,1x daily,15,2025-09-26
+658,328,53,Blood Tonic,2x daily,3,2024-10-18
+659,329,130,Chloroquine,3x daily,9,2025-01-10
+660,159,185,Artemether,3x daily,22,2026-02-07
+661,113,95,Vitamin C,3x daily,10,2024-11-09
+662,461,180,Chloroquine,3x daily,20,2024-12-03
+663,388,8,Ibuprofen,1x daily,14,2025-03-18
+664,492,124,Amoxicillin,1x daily,25,2024-05-02
+665,290,125,Vitamin C,1x daily,20,2024-05-30
+666,412,62,Insulin,3x daily,27,2024-04-29
+667,184,181,Chloroquine,2x daily,24,2026-02-22
+668,137,32,Insulin,3x daily,15,2026-01-03
+669,177,124,Amoxicillin,1x daily,3,2024-12-14
+670,288,151,Insulin,1x daily,24,2025-10-14
+671,426,62,Artemether,3x daily,13,2024-10-26
+672,293,101,Amoxicillin,2x daily,29,2024-10-15
+673,99,82,Insulin,3x daily,7,2024-07-26
+674,124,196,Ibuprofen,3x daily,11,2025-01-05
+675,321,13,Paracetamol,1x daily,18,2024-06-15
+676,386,76,Paracetamol,1x daily,24,2024-04-16
+677,437,178,Insulin,3x daily,15,2024-06-11
+678,465,120,Amoxicillin,1x daily,6,2024-07-20
+679,427,120,Artemether,1x daily,5,2024-09-04
+680,343,72,Vitamin C,1x daily,4,2024-03-31
+681,485,25,Insulin,3x daily,4,2025-05-25
+682,314,82,Amoxicillin,2x daily,23,2024-09-01
+683,311,25,Vitamin C,1x daily,17,2024-06-25
+684,209,66,Artemether,3x daily,17,2024-08-31
+685,329,124,Chloroquine,1x daily,26,2024-07-10
+686,189,76,Ibuprofen,2x daily,3,2024-10-14
+687,459,168,Blood Tonic,2x daily,22,2025-05-23
+688,145,122,Chloroquine,1x daily,25,2025-02-23
+689,483,130,Chloroquine,3x daily,15,2024-06-04
+690,391,124,Chloroquine,3x daily,7,2025-02-04
+691,177,8,Amoxicillin,3x daily,30,2024-09-10
+692,252,151,Insulin,1x daily,8,2024-12-21
+693,290,25,Ibuprofen,1x daily,15,2025-12-06
+694,480,180,Ibuprofen,1x daily,9,2025-06-17
+695,102,72,Blood Tonic,1x daily,5,2024-10-04
+696,480,54,Vitamin C,2x daily,25,2025-11-05
+697,477,65,Artemether,2x daily,15,2026-01-13
+698,56,147,Amoxicillin,2x daily,3,2025-06-18
+699,105,65,Amoxicillin,1x daily,22,2025-07-29
+700,84,7,Insulin,1x daily,10,2024-06-15
+701,385,125,Artemether,3x daily,24,2025-10-24
+702,163,54,Blood Tonic,2x daily,20,2025-07-02
+703,294,115,Insulin,1x daily,9,2025-08-19
+704,112,130,Amoxicillin,3x daily,20,2024-09-28
+705,152,93,Ibuprofen,3x daily,4,2024-05-18
+706,372,65,Vitamin C,1x daily,7,2025-09-14
+707,443,122,Ibuprofen,3x daily,4,2024-06-19
+708,499,50,Insulin,2x daily,12,2024-06-27
+709,28,78,Blood Tonic,1x daily,24,2024-06-11
+710,129,50,Insulin,2x daily,20,2025-03-27
+711,56,62,Blood Tonic,3x daily,28,2025-01-14
+712,256,178,Chloroquine,1x daily,5,2025-06-28
+713,8,65,Amoxicillin,2x daily,29,2025-03-23
+714,302,181,Chloroquine,1x daily,23,2025-04-05
+715,100,81,Insulin,1x daily,21,2025-06-27
+716,280,101,Blood Tonic,3x daily,24,2024-03-24
+717,311,130,Artemether,2x daily,30,2024-09-29
+718,424,76,Artemether,1x daily,30,2025-05-14
+719,264,66,Vitamin C,2x daily,3,2024-04-11
+720,174,76,Blood Tonic,3x daily,3,2024-12-03
+721,253,196,Insulin,2x daily,24,2024-03-21
+722,475,53,Blood Tonic,2x daily,25,2025-03-07
+723,32,122,Blood Tonic,1x daily,15,2025-12-23
+724,266,62,Paracetamol,2x daily,27,2025-12-24
+725,2,120,Chloroquine,1x daily,24,2025-09-19
+726,431,65,Chloroquine,1x daily,23,2025-03-07
+727,179,95,Chloroquine,1x daily,15,2025-09-10
+728,348,118,Paracetamol,2x daily,20,2024-03-25
+729,230,50,Ibuprofen,2x daily,21,2024-04-27
+730,77,25,Chloroquine,1x daily,21,2024-05-27
+731,72,95,Insulin,2x daily,27,2025-04-23
+732,305,13,Ibuprofen,1x daily,16,2026-01-17
+733,320,181,Ibuprofen,3x daily,30,2024-11-27
+734,9,65,Chloroquine,1x daily,30,2025-06-30
+735,170,13,Artemether,3x daily,29,2024-06-28
+736,278,125,Ibuprofen,3x daily,12,2025-05-16
+737,332,54,Ibuprofen,3x daily,13,2025-12-28
+738,434,178,Amoxicillin,3x daily,5,2025-10-07
+739,146,115,Blood Tonic,3x daily,20,2025-06-17
+740,260,147,Paracetamol,3x daily,23,2025-09-15
+741,226,32,Vitamin C,1x daily,10,2025-12-20
+742,459,181,Insulin,2x daily,15,2025-09-18
+743,245,72,Chloroquine,1x daily,22,2025-04-17
+744,232,82,Insulin,1x daily,22,2024-08-18
+745,33,147,Blood Tonic,3x daily,20,2025-05-28
+746,253,120,Chloroquine,3x daily,21,2024-03-06
+747,469,125,Blood Tonic,3x daily,30,2026-01-22
+748,79,54,Vitamin C,3x daily,21,2025-11-02
+749,101,168,Paracetamol,3x daily,20,2025-11-02
+750,163,180,Paracetamol,2x daily,23,2026-02-08
+751,96,78,Vitamin C,1x daily,25,2025-03-23
+752,138,8,Vitamin C,2x daily,15,2024-07-27
+753,373,101,Blood Tonic,3x daily,4,2024-10-26
+754,16,53,Chloroquine,2x daily,20,2025-06-16
+755,91,101,Vitamin C,2x daily,11,2025-10-19
+756,94,180,Insulin,2x daily,21,2024-08-31
+757,202,72,Chloroquine,2x daily,29,2024-09-03
+758,418,83,Chloroquine,3x daily,10,2025-10-18
+759,325,54,Ibuprofen,2x daily,29,2024-08-04
+760,444,76,Artemether,3x daily,21,2024-09-25
+761,479,50,Vitamin C,2x daily,8,2025-11-07
+762,134,32,Vitamin C,1x daily,20,2024-07-09
+763,390,101,Blood Tonic,1x daily,13,2024-04-09
+764,200,65,Chloroquine,2x daily,21,2024-07-03
+765,114,76,Vitamin C,3x daily,22,2024-08-20
+766,401,118,Amoxicillin,1x daily,30,2024-11-22
+767,482,178,Amoxicillin,3x daily,25,2024-10-06
+768,201,118,Vitamin C,1x daily,23,2025-12-08
+769,251,180,Ibuprofen,2x daily,30,2025-04-30
+770,287,95,Paracetamol,3x daily,13,2025-08-21
+771,388,168,Ibuprofen,2x daily,10,2025-12-29
+772,4,72,Ibuprofen,3x daily,22,2025-07-11
+773,62,178,Amoxicillin,1x daily,18,2025-05-20
+774,307,151,Chloroquine,1x daily,9,2024-04-18
+775,268,101,Artemether,2x daily,28,2025-06-06
+776,20,32,Vitamin C,1x daily,15,2025-08-06
+777,158,32,Vitamin C,2x daily,17,2025-01-18
+778,56,95,Vitamin C,1x daily,6,2025-12-03
+779,111,66,Vitamin C,3x daily,9,2024-04-11
+780,419,124,Blood Tonic,3x daily,30,2025-11-02
+781,487,180,Amoxicillin,1x daily,28,2025-03-02
+782,219,130,Vitamin C,1x daily,3,2024-08-30
+783,492,82,Chloroquine,3x daily,30,2024-12-24
+784,330,50,Ibuprofen,1x daily,4,2025-04-16
+785,398,115,Chloroquine,2x daily,15,2025-03-19
+786,316,180,Amoxicillin,3x daily,21,2025-11-21
+787,269,151,Paracetamol,3x daily,26,2024-05-03
+788,428,54,Blood Tonic,1x daily,11,2024-03-27
+789,185,54,Artemether,3x daily,19,2025-10-03
+790,286,115,Insulin,1x daily,7,2024-11-16
+791,479,101,Insulin,2x daily,4,2025-03-17
+792,490,95,Insulin,2x daily,20,2024-07-08
+793,227,82,Ibuprofen,1x daily,7,2025-04-02
+794,253,101,Vitamin C,3x daily,24,2025-03-20
+795,144,181,Vitamin C,3x daily,21,2026-01-06
+796,217,118,Vitamin C,3x daily,29,2024-11-25
+797,315,83,Chloroquine,3x daily,7,2024-06-03
+798,156,53,Amoxicillin,3x daily,16,2024-09-27
+799,171,8,Chloroquine,1x daily,4,2024-12-17
+800,22,62,Ibuprofen,2x daily,23,2025-08-18
+801,118,196,Artemether,1x daily,10,2025-07-30
+802,68,53,Vitamin C,2x daily,5,2025-09-19
+803,107,7,Vitamin C,2x daily,18,2025-12-06
+804,18,180,Artemether,3x daily,23,2024-11-21
+805,218,185,Chloroquine,3x daily,6,2026-02-16
+806,146,93,Ibuprofen,3x daily,19,2024-03-04
+807,316,120,Insulin,3x daily,22,2026-01-13
+808,367,168,Chloroquine,2x daily,30,2024-05-02
+809,354,76,Insulin,2x daily,23,2025-10-31
+810,404,130,Ibuprofen,3x daily,16,2024-11-21
+811,77,7,Chloroquine,2x daily,30,2025-03-17
+812,264,65,Vitamin C,2x daily,9,2024-04-05
+813,487,25,Artemether,1x daily,25,2025-06-20
+814,279,50,Chloroquine,1x daily,29,2025-03-19
+815,33,54,Artemether,3x daily,7,2025-12-20
+816,450,7,Ibuprofen,3x daily,5,2025-03-21
+817,31,120,Paracetamol,1x daily,19,2025-02-20
+818,126,124,Ibuprofen,2x daily,8,2025-06-25
+819,105,185,Blood Tonic,2x daily,3,2025-10-01
+820,273,65,Blood Tonic,2x daily,19,2025-07-10
+821,362,32,Blood Tonic,1x daily,28,2024-05-24
+822,93,115,Blood Tonic,2x daily,13,2024-07-26
+823,134,118,Ibuprofen,2x daily,7,2025-07-05
+824,195,62,Paracetamol,2x daily,7,2024-07-25
+825,317,32,Blood Tonic,2x daily,24,2024-04-26
+826,284,78,Amoxicillin,2x daily,4,2025-12-13
+827,282,66,Blood Tonic,1x daily,23,2025-12-24
+828,241,66,Amoxicillin,2x daily,24,2025-05-30
+829,111,72,Blood Tonic,3x daily,26,2025-09-28
+830,112,194,Chloroquine,1x daily,13,2025-06-01
+831,94,66,Chloroquine,3x daily,21,2025-06-30
+832,466,74,Insulin,1x daily,6,2025-03-16
+833,376,125,Vitamin C,3x daily,30,2025-08-03
+834,300,25,Ibuprofen,1x daily,20,2025-07-19
+835,282,62,Artemether,1x daily,13,2024-03-17
+836,335,118,Artemether,3x daily,30,2025-02-12
+837,458,181,Artemether,2x daily,20,2024-03-21
+838,482,93,Ibuprofen,2x daily,6,2024-07-16
+839,251,147,Blood Tonic,1x daily,8,2026-02-17
+840,414,122,Ibuprofen,1x daily,3,2025-03-02
+841,293,101,Ibuprofen,2x daily,21,2024-09-03
+842,416,168,Amoxicillin,1x daily,17,2024-09-08
+843,310,196,Blood Tonic,1x daily,8,2024-03-01
+844,293,66,Blood Tonic,1x daily,8,2025-06-29
+845,29,101,Artemether,3x daily,22,2024-08-09
+846,240,180,Blood Tonic,3x daily,6,2024-04-11
+847,110,168,Vitamin C,1x daily,21,2025-01-22
+848,488,185,Artemether,1x daily,7,2024-12-07
+849,15,50,Chloroquine,2x daily,15,2025-03-05
+850,374,22,Artemether,1x daily,4,2024-11-09
+851,453,13,Ibuprofen,3x daily,18,2025-06-06
+852,311,147,Blood Tonic,2x daily,24,2025-05-15
+853,108,118,Vitamin C,1x daily,10,2025-05-01
+854,327,181,Insulin,1x daily,28,2025-07-02
+855,429,13,Artemether,1x daily,11,2025-07-08
+856,155,78,Insulin,3x daily,5,2025-01-11
+857,418,194,Vitamin C,1x daily,17,2024-03-03
+858,35,115,Chloroquine,1x daily,30,2025-02-24
+859,373,194,Amoxicillin,1x daily,27,2025-09-09
+860,77,194,Chloroquine,3x daily,21,2025-02-27
+861,384,115,Paracetamol,1x daily,12,2024-11-12
+862,102,151,Ibuprofen,3x daily,30,2024-06-27
+863,377,178,Artemether,1x daily,22,2026-01-20
+864,422,72,Paracetamol,3x daily,16,2025-08-19
+865,241,32,Artemether,3x daily,21,2025-10-17
+866,256,32,Amoxicillin,1x daily,15,2024-03-11
+867,25,62,Chloroquine,1x daily,9,2024-11-11
+868,81,53,Blood Tonic,2x daily,17,2025-07-17
+869,386,54,Paracetamol,1x daily,22,2024-11-15
+870,395,32,Amoxicillin,1x daily,15,2025-06-02
+871,207,50,Chloroquine,1x daily,4,2024-09-26
+872,62,13,Blood Tonic,1x daily,26,2025-05-08
+873,176,180,Blood Tonic,1x daily,9,2025-07-18
+874,474,74,Paracetamol,2x daily,21,2025-03-29
+875,99,125,Insulin,2x daily,9,2024-12-26
+876,275,7,Chloroquine,2x daily,23,2025-12-02
+877,449,93,Amoxicillin,1x daily,27,2025-04-22
+878,402,83,Chloroquine,1x daily,5,2024-04-03
+879,146,8,Insulin,3x daily,19,2025-04-28
+880,72,101,Paracetamol,3x daily,24,2024-04-29
+881,168,54,Chloroquine,3x daily,12,2024-11-20
+882,193,54,Paracetamol,3x daily,9,2025-08-28
+883,359,118,Vitamin C,3x daily,15,2024-06-29
+884,430,25,Paracetamol,1x daily,25,2026-01-11
+885,342,194,Vitamin C,1x daily,27,2024-08-09
+886,356,196,Blood Tonic,1x daily,27,2024-11-17
+887,50,76,Blood Tonic,1x daily,7,2024-06-05
+888,142,72,Insulin,2x daily,20,2025-12-19
+889,168,181,Vitamin C,2x daily,12,2025-08-10
+890,391,54,Artemether,1x daily,11,2024-12-21
+891,483,25,Chloroquine,1x daily,7,2025-09-20
+892,247,22,Insulin,1x daily,14,2024-08-10
+893,315,65,Blood Tonic,1x daily,20,2024-05-24
+894,254,82,Paracetamol,1x daily,22,2025-05-31
+895,318,22,Blood Tonic,3x daily,26,2024-07-13
+896,494,32,Insulin,2x daily,30,2025-01-20
+897,303,8,Insulin,1x daily,7,2025-11-11
+898,65,83,Amoxicillin,2x daily,13,2025-07-30
+899,134,65,Paracetamol,1x daily,25,2025-10-20
+900,364,83,Paracetamol,1x daily,4,2025-05-21
+901,64,8,Vitamin C,2x daily,18,2024-11-27
+902,289,130,Vitamin C,2x daily,28,2025-03-24
+903,158,25,Vitamin C,2x daily,21,2025-06-07
+904,347,115,Vitamin C,2x daily,16,2026-01-13
+905,432,66,Artemether,2x daily,18,2024-07-11
+906,431,50,Chloroquine,2x daily,17,2025-05-22
+907,223,7,Amoxicillin,1x daily,20,2024-08-03
+908,31,53,Amoxicillin,1x daily,9,2025-04-08
+909,14,124,Artemether,1x daily,17,2024-10-08
+910,205,82,Amoxicillin,2x daily,8,2024-06-20
+911,217,180,Paracetamol,3x daily,3,2025-05-06
+912,265,50,Vitamin C,2x daily,6,2024-11-25
+913,76,196,Paracetamol,3x daily,6,2024-11-10
+914,499,101,Paracetamol,2x daily,5,2024-06-03
+915,101,178,Paracetamol,2x daily,17,2025-09-04
+916,53,78,Paracetamol,2x daily,25,2024-12-11
+917,118,101,Amoxicillin,1x daily,29,2024-09-23
+918,446,83,Vitamin C,3x daily,11,2026-02-18
+919,252,93,Artemether,2x daily,8,2025-06-24
+920,59,72,Paracetamol,1x daily,21,2024-11-13
+921,223,66,Vitamin C,3x daily,30,2024-12-01
+922,271,115,Blood Tonic,2x daily,25,2025-04-08
+923,220,81,Blood Tonic,1x daily,9,2025-08-11
+924,62,185,Paracetamol,2x daily,9,2024-06-06
+925,344,72,Insulin,1x daily,29,2025-09-20
+926,415,130,Ibuprofen,2x daily,15,2026-02-25
+927,224,62,Amoxicillin,2x daily,21,2025-02-18
+928,33,180,Artemether,1x daily,25,2026-02-02
+929,438,151,Paracetamol,1x daily,4,2024-09-10
+930,137,122,Insulin,2x daily,6,2026-02-14
+931,160,101,Paracetamol,1x daily,28,2025-01-04
+932,60,22,Blood Tonic,3x daily,18,2025-04-16
+933,342,147,Amoxicillin,2x daily,4,2024-12-18
+934,11,81,Artemether,3x daily,27,2025-05-30
+935,483,185,Amoxicillin,3x daily,21,2026-01-19
+936,388,82,Paracetamol,2x daily,10,2025-09-03
+937,342,25,Vitamin C,1x daily,4,2024-08-11
+938,131,178,Paracetamol,3x daily,12,2024-08-24
+939,332,168,Insulin,3x daily,19,2025-12-10
+940,253,76,Amoxicillin,1x daily,17,2025-04-25
+941,303,130,Amoxicillin,2x daily,15,2024-03-06
+942,309,185,Ibuprofen,1x daily,16,2024-05-04
+943,465,120,Amoxicillin,1x daily,9,2025-02-06
+944,249,83,Paracetamol,2x daily,18,2024-12-19
+945,293,82,Artemether,1x daily,29,2025-06-14
+946,90,95,Insulin,1x daily,9,2025-12-11
+947,378,178,Ibuprofen,3x daily,21,2024-06-18
+948,467,53,Blood Tonic,1x daily,5,2025-08-01
+949,365,81,Chloroquine,2x daily,30,2024-05-09
+950,490,54,Paracetamol,1x daily,17,2025-05-19
+951,27,178,Blood Tonic,3x daily,30,2025-06-20
+952,88,50,Amoxicillin,2x daily,4,2025-04-21
+953,431,65,Paracetamol,3x daily,28,2024-06-30
+954,339,81,Amoxicillin,3x daily,28,2024-02-27
+955,43,78,Vitamin C,3x daily,25,2025-08-20
+956,385,194,Blood Tonic,1x daily,6,2024-08-11
+957,43,130,Paracetamol,3x daily,29,2025-07-07
+958,276,178,Ibuprofen,3x daily,19,2024-10-05
+959,16,25,Insulin,2x daily,12,2025-11-04
+960,274,54,Chloroquine,1x daily,17,2025-05-31
+961,485,115,Artemether,3x daily,17,2025-01-01
+962,498,178,Vitamin C,2x daily,3,2024-05-16
+963,277,66,Paracetamol,1x daily,11,2025-04-15
+964,277,13,Insulin,2x daily,13,2024-03-21
+965,243,32,Chloroquine,1x daily,15,2024-06-11
+966,289,32,Ibuprofen,3x daily,15,2024-06-04
+967,47,32,Chloroquine,3x daily,18,2024-10-06
+968,346,196,Ibuprofen,1x daily,22,2025-06-11
+969,344,125,Chloroquine,2x daily,26,2024-06-03
+970,386,122,Blood Tonic,3x daily,23,2025-10-05
+971,26,82,Paracetamol,3x daily,14,2025-07-22
+972,118,53,Ibuprofen,1x daily,28,2025-09-10
+973,298,125,Amoxicillin,2x daily,16,2024-11-22
+974,23,168,Artemether,1x daily,18,2024-05-11
+975,146,185,Artemether,2x daily,26,2025-04-21
+976,194,115,Amoxicillin,2x daily,21,2024-11-30
+977,409,122,Chloroquine,2x daily,23,2025-12-06
+978,24,124,Ibuprofen,3x daily,15,2024-12-11
+979,197,181,Artemether,3x daily,11,2025-11-05
+980,480,125,Paracetamol,2x daily,17,2024-05-10
+981,262,93,Chloroquine,1x daily,17,2024-10-07
+982,6,62,Vitamin C,1x daily,15,2025-05-13
+983,73,65,Vitamin C,3x daily,27,2024-06-03
+984,125,124,Ibuprofen,3x daily,20,2024-08-25
+985,65,7,Artemether,2x daily,20,2025-01-24
+986,205,181,Artemether,3x daily,4,2025-06-28
+987,451,125,Chloroquine,2x daily,15,2024-11-03
+988,246,62,Blood Tonic,3x daily,21,2026-01-29
+989,35,125,Paracetamol,3x daily,29,2026-02-23
+990,33,32,Ibuprofen,1x daily,9,2025-08-28
+991,425,53,Artemether,2x daily,24,2024-10-27
+992,387,65,Artemether,3x daily,16,2025-04-20
+993,56,76,Artemether,2x daily,26,2026-02-25
+994,209,7,Vitamin C,1x daily,10,2025-10-11
+995,23,81,Vitamin C,3x daily,19,2024-06-16
+996,49,122,Vitamin C,3x daily,3,2025-06-10
+997,466,65,Vitamin C,2x daily,27,2024-10-10
+998,155,168,Chloroquine,2x daily,6,2025-11-05
+999,316,50,Insulin,2x daily,23,2024-05-10
+1000,17,72,Ibuprofen,2x daily,3,2024-11-11

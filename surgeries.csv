@@ -1,0 +1,201 @@
+surgery_id,patient_id,surgeon_id,procedure,date,outcome
+1,404,194,Dialysis,2025-08-19,Complications
+2,433,25,Dialysis,2025-08-26,Fatal
+3,248,25,Angioplasty,2024-03-25,Successful
+4,359,81,Angioplasty,2026-02-08,Fatal
+5,294,181,Hernia Repair,2024-08-08,Successful
+6,280,181,Hernia Repair,2026-02-08,Successful
+7,444,122,Dialysis,2025-02-12,Fatal
+8,75,50,Fracture Fixation,2024-07-24,Successful
+9,227,82,Dialysis,2025-08-21,Fatal
+10,435,50,Caesarean Section,2025-07-08,Complications
+11,319,66,Dialysis,2024-12-06,Fatal
+12,193,81,Angioplasty,2025-12-10,Complications
+13,316,181,Angioplasty,2025-05-08,Successful
+14,358,196,Dialysis,2024-03-03,Fatal
+15,317,185,Dialysis,2025-02-17,Complications
+16,477,178,Dialysis,2024-07-05,Fatal
+17,160,32,Fracture Fixation,2024-07-07,Complications
+18,302,81,Fracture Fixation,2026-02-02,Fatal
+19,26,53,Appendectomy,2025-08-29,Fatal
+20,70,66,Appendectomy,2024-10-01,Fatal
+21,400,151,Fracture Fixation,2024-04-18,Successful
+22,357,120,Hernia Repair,2026-02-09,Successful
+23,180,53,Appendectomy,2024-03-08,Complications
+24,41,125,Hernia Repair,2025-08-13,Fatal
+25,32,76,Angioplasty,2025-01-16,Fatal
+26,386,185,Dialysis,2025-09-13,Successful
+27,216,95,Caesarean Section,2025-07-20,Complications
+28,500,54,Appendectomy,2025-10-09,Fatal
+29,297,81,Fracture Fixation,2024-09-14,Complications
+30,307,22,Dialysis,2025-07-08,Complications
+31,4,22,Appendectomy,2024-05-29,Fatal
+32,336,194,Fracture Fixation,2024-11-03,Successful
+33,153,180,Angioplasty,2024-03-26,Complications
+34,92,22,Fracture Fixation,2025-06-26,Complications
+35,193,82,Hernia Repair,2024-03-21,Fatal
+36,315,125,Dialysis,2025-03-08,Complications
+37,211,22,Fracture Fixation,2024-05-10,Complications
+38,135,65,Appendectomy,2025-12-25,Complications
+39,162,125,Fracture Fixation,2024-07-16,Complications
+40,388,130,Fracture Fixation,2024-08-12,Fatal
+41,457,8,Angioplasty,2024-07-16,Complications
+42,401,93,Fracture Fixation,2024-07-17,Successful
+43,99,178,Angioplasty,2026-01-03,Successful
+44,218,54,Caesarean Section,2025-05-11,Complications
+45,133,122,Dialysis,2025-09-04,Successful
+46,438,66,Dialysis,2025-01-12,Complications
+47,359,83,Appendectomy,2025-02-02,Successful
+48,204,101,Angioplasty,2024-06-02,Fatal
+49,178,76,Appendectomy,2025-11-25,Successful
+50,356,125,Caesarean Section,2025-03-23,Successful
+51,61,66,Caesarean Section,2025-02-28,Complications
+52,93,130,Dialysis,2024-03-16,Complications
+53,356,151,Fracture Fixation,2024-08-21,Complications
+54,69,95,Angioplasty,2025-06-19,Successful
+55,200,8,Appendectomy,2025-05-25,Successful
+56,91,82,Hernia Repair,2024-04-02,Successful
+57,48,118,Angioplasty,2025-08-24,Complications
+58,274,180,Hernia Repair,2025-06-16,Complications
+59,31,7,Angioplasty,2024-11-29,Successful
+60,56,151,Angioplasty,2026-02-26,Fatal
+61,203,151,Hernia Repair,2026-01-13,Complications
+62,287,54,Caesarean Section,2024-12-13,Successful
+63,89,194,Angioplasty,2025-11-20,Complications
+64,228,7,Fracture Fixation,2026-01-22,Complications
+65,70,124,Fracture Fixation,2024-12-27,Successful
+66,327,125,Appendectomy,2025-10-08,Successful
+67,374,53,Caesarean Section,2025-02-14,Successful
+68,105,180,Fracture Fixation,2025-04-24,Successful
+69,377,151,Fracture Fixation,2024-09-08,Successful
+70,221,115,Hernia Repair,2025-11-09,Fatal
+71,374,120,Angioplasty,2025-06-23,Successful
+72,237,185,Fracture Fixation,2025-05-28,Fatal
+73,87,118,Fracture Fixation,2025-04-05,Fatal
+74,90,93,Caesarean Section,2026-01-26,Successful
+75,344,185,Hernia Repair,2025-07-25,Successful
+76,258,95,Fracture Fixation,2024-05-12,Complications
+77,409,82,Appendectomy,2024-04-15,Successful
+78,347,125,Fracture Fixation,2024-09-19,Complications
+79,335,118,Fracture Fixation,2025-09-18,Fatal
+80,240,101,Hernia Repair,2024-08-09,Successful
+81,446,72,Appendectomy,2024-05-28,Successful
+82,72,72,Caesarean Section,2025-09-12,Fatal
+83,230,83,Angioplasty,2026-02-10,Fatal
+84,392,168,Hernia Repair,2024-03-25,Fatal
+85,376,32,Dialysis,2024-05-15,Complications
+86,462,122,Caesarean Section,2025-03-25,Successful
+87,341,83,Hernia Repair,2026-01-04,Fatal
+88,348,65,Dialysis,2025-09-18,Successful
+89,16,72,Angioplasty,2024-03-18,Fatal
+90,195,65,Appendectomy,2025-01-24,Complications
+91,182,7,Hernia Repair,2025-11-10,Fatal
+92,32,25,Angioplasty,2024-06-12,Complications
+93,493,78,Appendectomy,2025-07-18,Complications
+94,169,72,Appendectomy,2025-03-02,Complications
+95,312,76,Fracture Fixation,2025-10-23,Fatal
+96,280,178,Caesarean Section,2025-06-24,Complications
+97,320,76,Fracture Fixation,2024-06-18,Successful
+98,452,93,Appendectomy,2024-04-20,Successful
+99,440,50,Angioplasty,2024-05-27,Successful
+100,367,122,Dialysis,2024-11-20,Complications
+101,259,83,Angioplasty,2024-07-28,Successful
+102,432,125,Fracture Fixation,2025-02-08,Successful
+103,143,81,Fracture Fixation,2024-09-25,Fatal
+104,490,118,Fracture Fixation,2025-02-03,Complications
+105,219,22,Angioplasty,2025-06-09,Successful
+106,420,181,Fracture Fixation,2025-08-08,Fatal
+107,34,151,Angioplasty,2025-05-14,Fatal
+108,112,130,Hernia Repair,2024-04-09,Fatal
+109,55,7,Hernia Repair,2025-05-17,Fatal
+110,334,95,Caesarean Section,2024-04-07,Fatal
+111,306,53,Caesarean Section,2025-10-06,Fatal
+112,234,178,Angioplasty,2024-07-25,Fatal
+113,131,181,Hernia Repair,2025-07-12,Complications
+114,412,194,Angioplasty,2024-06-01,Complications
+115,301,180,Angioplasty,2025-08-05,Successful
+116,454,22,Fracture Fixation,2024-03-10,Complications
+117,247,196,Hernia Repair,2026-02-04,Successful
+118,429,151,Appendectomy,2024-08-19,Complications
+119,430,130,Hernia Repair,2025-04-23,Successful
+120,130,120,Caesarean Section,2024-06-08,Successful
+121,415,32,Hernia Repair,2025-01-08,Fatal
+122,277,120,Hernia Repair,2025-11-07,Complications
+123,90,82,Caesarean Section,2024-06-21,Successful
+124,426,185,Hernia Repair,2024-06-04,Successful
+125,304,130,Caesarean Section,2024-07-04,Fatal
+126,121,78,Angioplasty,2024-10-03,Successful
+127,78,53,Hernia Repair,2025-10-13,Fatal
+128,282,168,Appendectomy,2024-10-29,Complications
+129,472,65,Angioplasty,2024-09-03,Successful
+130,89,180,Angioplasty,2025-06-12,Successful
+131,365,194,Angioplasty,2025-08-14,Successful
+132,86,62,Appendectomy,2024-12-21,Successful
+133,418,53,Appendectomy,2024-11-11,Successful
+134,118,66,Appendectomy,2025-08-06,Successful
+135,33,180,Dialysis,2024-10-12,Complications
+136,223,120,Appendectomy,2025-03-16,Successful
+137,466,8,Angioplasty,2025-07-09,Fatal
+138,306,185,Hernia Repair,2025-08-13,Complications
+139,367,120,Appendectomy,2025-03-12,Successful
+140,281,32,Fracture Fixation,2024-06-20,Successful
+141,191,120,Appendectomy,2024-07-14,Complications
+142,32,78,Angioplasty,2024-04-22,Complications
+143,476,95,Hernia Repair,2024-12-05,Successful
+144,329,32,Angioplasty,2024-12-29,Fatal
+145,387,22,Dialysis,2025-04-20,Complications
+146,216,185,Hernia Repair,2026-01-31,Successful
+147,100,95,Fracture Fixation,2024-07-18,Complications
+148,444,196,Fracture Fixation,2026-02-24,Fatal
+149,405,50,Appendectomy,2025-03-01,Successful
+150,102,8,Dialysis,2024-12-19,Complications
+151,469,66,Appendectomy,2026-02-22,Complications
+152,419,82,Fracture Fixation,2024-03-07,Fatal
+153,302,120,Dialysis,2025-12-09,Successful
+154,170,8,Hernia Repair,2025-05-08,Successful
+155,224,125,Hernia Repair,2026-02-19,Complications
+156,217,82,Appendectomy,2024-12-31,Successful
+157,7,122,Fracture Fixation,2025-02-13,Complications
+158,445,32,Hernia Repair,2024-11-10,Successful
+159,361,76,Fracture Fixation,2025-05-20,Successful
+160,414,130,Angioplasty,2024-03-21,Complications
+161,52,122,Angioplasty,2026-01-15,Fatal
+162,138,151,Appendectomy,2024-10-09,Fatal
+163,315,7,Fracture Fixation,2025-07-19,Fatal
+164,390,72,Dialysis,2025-06-20,Complications
+165,281,72,Fracture Fixation,2025-06-09,Fatal
+166,73,120,Angioplasty,2025-06-12,Fatal
+167,291,194,Angioplasty,2025-05-04,Complications
+168,82,120,Angioplasty,2025-06-07,Complications
+169,402,7,Angioplasty,2025-10-23,Successful
+170,277,125,Angioplasty,2025-03-24,Fatal
+171,267,194,Appendectomy,2025-03-11,Complications
+172,271,168,Angioplasty,2025-01-30,Successful
+173,187,8,Fracture Fixation,2025-04-06,Fatal
+174,220,66,Fracture Fixation,2024-04-27,Complications
+175,433,25,Angioplasty,2026-01-20,Complications
+176,460,120,Appendectomy,2024-09-25,Fatal
+177,305,78,Caesarean Section,2026-02-05,Successful
+178,483,32,Caesarean Section,2025-05-24,Complications
+179,452,115,Dialysis,2025-03-09,Fatal
+180,268,194,Angioplasty,2025-08-29,Successful
+181,195,7,Fracture Fixation,2026-02-14,Successful
+182,284,7,Angioplasty,2026-02-03,Complications
+183,479,54,Appendectomy,2025-07-04,Complications
+184,185,101,Angioplasty,2025-04-20,Complications
+185,498,53,Dialysis,2025-02-18,Complications
+186,234,83,Hernia Repair,2025-03-16,Successful
+187,344,54,Dialysis,2024-04-25,Complications
+188,198,66,Appendectomy,2024-04-18,Successful
+189,278,185,Caesarean Section,2025-04-29,Complications
+190,48,196,Dialysis,2025-11-18,Successful
+191,224,82,Caesarean Section,2024-04-18,Successful
+192,73,151,Fracture Fixation,2025-03-05,Fatal
+193,301,25,Dialysis,2024-06-17,Successful
+194,416,81,Hernia Repair,2026-01-05,Fatal
+195,188,82,Caesarean Section,2026-01-15,Successful
+196,422,185,Fracture Fixation,2025-10-11,Fatal
+197,151,118,Dialysis,2024-10-15,Successful
+198,164,125,Angioplasty,2025-09-23,Successful
+199,2,194,Caesarean Section,2024-04-30,Successful
+200,433,118,Dialysis,2024-12-11,Successful

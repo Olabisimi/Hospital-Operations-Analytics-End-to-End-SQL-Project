@@ -1,0 +1,201 @@
+staff_id,name,role,specialty,phone,hire_date
+1,Bradley Brown,Nurse,,+1-656-647-1226x273,2021-12-16
+2,Tammy Wright,Admin,,001-207-523-9645,2021-02-16
+3,Michael Lee,Lab Technician,,265-976-0046,2017-07-02
+4,Sarah Hughes,Lab Technician,,425-711-6842x94924,2017-03-15
+5,William Hardin,Admin,,(287)594-8670,2022-04-10
+6,Sean White,Pharmacist,,+1-996-606-1789x777,2019-06-11
+7,Cheryl Davis,Doctor,Neurology,3549572164,2025-01-27
+8,Mark Peters,Doctor,Cardiology,(795)719-5511x1759,2020-02-26
+9,Brenda Gonzalez,Nurse,,(432)361-3433,2016-10-02
+10,Alyssa Lawson,Lab Technician,,717-434-6528x7433,2022-09-13
+11,Sue Hutchinson,Pharmacist,,+1-217-822-2207,2025-06-18
+12,Mary Cole,Nurse,,372.249.2542x302,2017-06-11
+13,Joshua Underwood,Doctor,Orthopedics,+1-956-944-3894,2019-02-10
+14,Bruce Larson,Lab Technician,,(923)331-0080x500,2019-02-07
+15,Angela Swanson,Nurse,,774.568.6393x77888,2018-09-04
+16,Kyle Sullivan,Lab Technician,,770-573-6051x2574,2022-01-28
+17,Crystal Hughes,Pharmacist,,(906)761-6679,2017-01-02
+18,William Gamble,Pharmacist,,(969)725-0520x1752,2021-07-02
+19,Mrs. Caitlyn Burgess,Pharmacist,,403-521-5105,2025-09-10
+20,Heather Garcia,Admin,,+1-538-393-2333x0593,2016-02-28
+21,Allen Kelly,Admin,,+1-500-455-0087x095,2016-07-01
+22,Sarah Burke,Doctor,Orthopedics,239.807.9984x5734,2020-12-12
+23,Stacy Brown,Pharmacist,,735.770.9316x4186,2019-11-09
+24,Michelle Baker,Nurse,,2448115942,2019-10-10
+25,Nicole Velez,Doctor,Pediatrics,(330)358-3529x62672,2016-06-11
+26,Henry Howard,Lab Technician,,637.417.4904x084,2023-05-30
+27,Misty Harvey,Pharmacist,,419-850-6585x20724,2025-07-02
+28,Mary Miranda,Nurse,,(774)911-4181,2023-12-12
+29,Scott Powell,Lab Technician,,(401)757-6909x45608,2024-02-08
+30,Vincent Mcclain,Admin,,001-345-715-6654x1350,2024-12-20
+31,Daniel Lowery,Pharmacist,,(623)245-1972x7055,2020-05-26
+32,Carlos Perez,Doctor,Orthopedics,8392298658,2024-01-09
+33,Adam Cain,Pharmacist,,741.255.0497,2018-01-26
+34,Jesus Shepherd,Admin,,+1-592-881-9362x666,2023-10-09
+35,Heather Clarke,Nurse,,746-990-0905x480,2019-09-28
+36,Robert Wong,Nurse,,921-865-4831,2016-09-04
+37,David Larson,Nurse,,(814)201-7053,2022-11-01
+38,Dawn Simpson,Lab Technician,,648-964-2794x4402,2017-09-26
+39,William Sherman,Nurse,,971.797.9530x6792,2017-10-11
+40,Samantha Williams,Lab Technician,,949-749-7719x933,2024-12-12
+41,Steven Perkins,Admin,,+1-723-408-8567x816,2025-01-17
+42,Christopher Johnson,Pharmacist,,001-630-221-2390x970,2021-12-26
+43,Sarah Osborne,Lab Technician,,306.321.9423x2646,2020-06-05
+44,Jared Cooley,Admin,,243.919.5896x62891,2023-09-18
+45,Matthew Odonnell,Lab Technician,,4132093493,2020-02-04
+46,Becky Robinson,Admin,,578-552-7392x86237,2016-03-01
+47,Shannon Hernandez,Nurse,,542.211.4667,2017-10-30
+48,Rita Becker,Nurse,,476-748-1421x6923,2025-01-02
+49,Joseph Shaffer,Admin,,401-557-0370x04366,2026-01-18
+50,Douglas Bradley,Doctor,Oncology,288-464-6400,2018-07-25
+51,Taylor Ray,Admin,,001-299-430-6064x90761,2025-12-14
+52,Crystal Evans,Pharmacist,,(754)456-9016x072,2025-12-29
+53,Ricky Walker,Doctor,Pediatrics,(313)537-3483x91328,2017-09-10
+54,Dr. Lisa Le,Doctor,Gynecology,484.422.8836,2025-02-05
+55,Gregory Blackwell,Admin,,8893919650,2025-11-16
+56,Kevin Henderson,Admin,,+1-339-485-3392x34511,2021-07-06
+57,Aaron Durham,Nurse,,661-625-1960,2019-06-28
+58,Nicole Brandt,Nurse,,6789096969,2017-10-30
+59,Natalie Walsh,Pharmacist,,(578)870-1261x8289,2016-08-12
+60,Jessica Wright,Admin,,001-673-859-8441x444,2018-11-08
+61,Sydney Leonard,Lab Technician,,837-760-2242x3782,2017-05-06
+62,Lindsay Davis,Doctor,Gynecology,559.524.0194,2023-01-13
+63,Steven Roberts,Admin,,(270)456-6903,2023-06-16
+64,Bethany Terry,Lab Technician,,813-472-5868x636,2023-04-12
+65,Marcus Holmes,Doctor,Oncology,(922)605-9433x168,2019-09-27
+66,Monica Haley,Doctor,Oncology,(439)674-7091x27549,2025-04-11
+67,Joseph Williams,Nurse,,269.829.9835,2019-06-05
+68,Aaron Griffin,Admin,,001-436-343-2583,2018-07-22
+69,Douglas Hughes,Lab Technician,,(784)301-7324x13552,2024-04-27
+70,Tyler Gonzalez,Lab Technician,,431-871-7990,2025-06-02
+71,Kimberly Mercer,Admin,,657.421.5985x28438,2019-04-02
+72,Mr. Raymond Martin,Doctor,Oncology,+1-723-965-5511,2020-05-04
+73,Elizabeth Fuller,Pharmacist,,931.542.5174x32479,2019-08-08
+74,Amanda Maxwell,Doctor,Neurology,8747073707,2024-04-28
+75,Ellen Anderson,Pharmacist,,001-544-538-3588,2018-11-09
+76,Anthony Smith,Doctor,Gynecology,(259)231-4497x29509,2018-05-15
+77,Eric Duncan,Admin,,912-505-2070,2021-01-28
+78,Erica Griffin,Doctor,General,757-840-3885x591,2025-01-18
+79,Christina Lewis,Lab Technician,,(445)335-6935x6366,2020-10-16
+80,Brian Brock,Pharmacist,,+1-422-689-6102x32890,2019-02-27
+81,Nicholas Bowman,Doctor,General,001-840-744-5217x4549,2024-05-17
+82,Brandon Mendoza,Doctor,Oncology,(978)835-0753x7865,2022-12-26
+83,Maurice Mcknight,Doctor,Orthopedics,800.307.9613,2023-01-08
+84,Michael Moore MD,Lab Technician,,9029520940,2017-01-10
+85,Michael Willis,Nurse,,745.986.5506x264,2021-12-13
+86,John Hartman,Nurse,,9906508754,2016-07-16
+87,Karen Solomon,Lab Technician,,+1-718-805-7904x325,2016-12-31
+88,Brian Melton,Pharmacist,,975.226.0154,2023-06-18
+89,Larry Hernandez,Lab Technician,,(424)871-8705x56118,2019-11-22
+90,Jeremy Campos,Lab Technician,,241.389.4370,2016-08-06
+91,William Castillo,Lab Technician,,+1-664-906-8687,2022-11-23
+92,Mary Reeves,Lab Technician,,+1-667-217-8124x409,2016-02-29
+93,Daniel Owens,Doctor,Cardiology,2314785166,2024-05-19
+94,Yolanda Montes,Pharmacist,,001-482-550-0200x1435,2021-05-21
+95,Cody Strickland PhD,Doctor,Cardiology,(867)369-8398,2022-07-28
+96,Matthew Conley Jr.,Admin,,931.481.5498x627,2021-05-28
+97,Karen Tran,Lab Technician,,571.896.4013x66571,2025-11-16
+98,Sean Roth,Admin,,588-577-0902,2020-10-03
+99,Megan Peterson,Nurse,,7025943980,2022-05-15
+100,Virginia Obrien,Nurse,,(637)317-6736,2018-07-10
+101,Michael Gordon,Doctor,General,521-201-9736x0171,2020-11-17
+102,Marc Porter,Pharmacist,,4924544482,2018-09-29
+103,Lisa Gutierrez,Lab Technician,,632.578.7328,2023-09-25
+104,Amanda Irwin,Admin,,(328)446-9964,2023-05-24
+105,Lindsey Bray,Lab Technician,,435-369-6145,2021-11-15
+106,Jessica Krause,Admin,,743.279.0305x6580,2023-07-08
+107,Allen Harrison,Lab Technician,,601-943-9632,2022-07-18
+108,Elizabeth Crawford,Nurse,,339.325.4618x02998,2024-04-29
+109,Tammy Rodriguez,Nurse,,9032620687,2022-08-02
+110,Shirley Walsh,Lab Technician,,997-871-1772,2020-05-22
+111,Olivia Jackson,Pharmacist,,(868)776-9573x769,2023-01-12
+112,Raymond Riley,Nurse,,001-582-835-0402x43454,2016-05-11
+113,Paul Ayala,Pharmacist,,+1-786-497-0348,2017-09-12
+114,James Rodriguez,Nurse,,(906)864-2506x88602,2019-03-27
+115,Stephen Anderson,Doctor,General,(766)967-3274x1910,2021-02-11
+116,Dr. Jennifer Grimes,Lab Technician,,636-936-0094x203,2022-05-01
+117,John Glover,Admin,,(244)350-2179,2020-09-17
+118,Angela Thomas,Doctor,Gynecology,627.547.8056x1212,2021-09-04
+119,Taylor Yang,Nurse,,449.936.2141,2017-08-20
+120,Sarah Morgan,Doctor,Pediatrics,678.437.0241,2021-10-18
+121,Katie Hernandez,Admin,,201-319-2553,2023-09-20
+122,Seth Smith,Doctor,Oncology,001-386-827-9334,2016-06-22
+123,John Turner,Admin,,891-515-4538,2019-12-20
+124,Brandon Schaefer,Doctor,Gynecology,(927)929-2175x378,2022-01-01
+125,Rachael Wong,Doctor,Neurology,293.451.3089x265,2022-04-22
+126,Alexandra Miles,Lab Technician,,449.211.9280x78635,2017-02-13
+127,Michael Page,Nurse,,(983)599-2552x51160,2019-02-20
+128,Amber Martinez,Admin,,001-252-586-0599x421,2023-04-27
+129,Gail Fleming,Nurse,,001-227-944-1034,2019-05-15
+130,Keith Butler,Doctor,Cardiology,896.431.0397x8639,2020-06-29
+131,Dylan White,Admin,,+1-654-340-0898,2019-09-20
+132,Becky Brewer,Pharmacist,,(804)656-1179,2021-12-08
+133,Lauren Gomez,Nurse,,+1-885-513-4218x73813,2020-12-09
+134,Noah Rios,Admin,,209-973-7275x84430,2022-02-28
+135,Scott Clark,Pharmacist,,806.425.5270x804,2020-11-30
+136,Steven Nelson,Admin,,493-587-6608x77685,2020-05-06
+137,Dylan Camacho,Admin,,265-505-7188,2022-11-11
+138,Samantha Schmidt MD,Pharmacist,,618-423-3819x335,2023-07-06
+139,Sandra Parker,Nurse,,001-362-953-3021,2025-11-15
+140,Christopher Coleman,Pharmacist,,+1-809-589-0080x576,2016-10-16
+141,Dr. Amanda Thompson DDS,Nurse,,698.448.7210x8016,2019-03-04
+142,Matthew Peterson,Admin,,976-340-6606x901,2017-02-02
+143,Ashley Mccullough,Nurse,,+1-491-463-5622x9047,2024-03-31
+144,Chad Perez,Lab Technician,,979.993.3375x54008,2020-07-14
+145,Lisa Ortiz,Pharmacist,,001-262-738-4626x3096,2021-11-12
+146,Michael Lewis,Pharmacist,,619.334.0581,2019-05-30
+147,Jessica James,Doctor,Cardiology,(790)534-3506x95246,2023-07-06
+148,Kyle Howard,Lab Technician,,(890)391-1505x789,2021-05-06
+149,Raven Davis,Admin,,001-530-277-4692x55852,2021-03-01
+150,Matthew Johnson,Lab Technician,,(642)557-9228x37178,2021-10-05
+151,Christian Bailey,Doctor,ENT,001-323-465-8228x480,2016-04-01
+152,Jimmy Farley,Lab Technician,,+1-327-774-3190x9801,2020-02-21
+153,Jason Steele,Admin,,874-339-2255,2017-01-15
+154,Lori Wilson,Pharmacist,,(598)631-7934x5149,2020-08-04
+155,Daniel Marshall,Lab Technician,,670-200-2009,2021-12-12
+156,Terri Ortega,Lab Technician,,(929)501-8477x306,2016-12-24
+157,Lorraine Zimmerman,Nurse,,(400)995-8986,2020-10-27
+158,Amanda Nelson,Pharmacist,,661.535.6767,2020-01-17
+159,Melissa Miller,Lab Technician,,+1-621-329-2625x5360,2017-02-28
+160,Andrew Logan,Nurse,,(218)743-6213x0579,2020-12-04
+161,Mark Carter,Admin,,001-277-546-0244x6650,2019-04-08
+162,Stephen Mcdonald,Lab Technician,,(760)832-9480x174,2021-06-15
+163,Dylan Stewart,Nurse,,621.519.9285x003,2018-01-20
+164,Scott Watson,Nurse,,+1-207-301-1652x5983,2016-08-27
+165,Kenneth Murphy,Pharmacist,,228.463.7886x6936,2020-12-13
+166,Nicholas Ramos,Nurse,,(808)913-4549,2022-10-17
+167,Rachel Brandt,Lab Technician,,491.960.4490x76029,2025-08-19
+168,Ryan Silva,Doctor,Neurology,320-397-5037,2023-08-17
+169,Crystal Green,Lab Technician,,(276)607-5084x0244,2024-06-27
+170,Lori Jones,Admin,,463-929-3086x1281,2022-03-03
+171,Mary Prince,Admin,,579-213-9886x469,2025-04-20
+172,Mary Garza,Nurse,,552.519.7931x209,2017-01-11
+173,Renee Larsen,Lab Technician,,4888725452,2024-02-26
+174,Natasha Smith,Nurse,,254.233.9659,2022-10-07
+175,Brent Arnold,Pharmacist,,635.227.5928x48199,2019-11-09
+176,Emily Jones,Nurse,,748.793.6259x18758,2021-02-06
+177,Caitlin Rangel,Pharmacist,,3692407956,2024-05-01
+178,Wendy Brown,Doctor,Oncology,949.287.7432,2018-02-20
+179,Stephanie Morales,Pharmacist,,857.563.8361x00377,2021-04-03
+180,Richard Moore,Doctor,Gynecology,+1-864-202-1407x13075,2018-08-13
+181,Eduardo White,Doctor,Orthopedics,(841)254-3927x01336,2017-02-22
+182,Amber Fisher,Lab Technician,,218.625.4725x488,2017-12-12
+183,Shelby Kennedy,Admin,,(440)550-7086,2016-03-22
+184,Kristin Boone,Admin,,001-545-757-8114x0160,2022-08-27
+185,Darryl Douglas,Doctor,Pediatrics,(348)454-0431,2018-03-27
+186,Charles Fischer,Nurse,,001-984-857-7551x695,2023-09-07
+187,Connie Lopez,Admin,,001-978-442-3188,2021-04-16
+188,Susan Fuller,Admin,,+1-871-467-8797x5561,2024-10-26
+189,Zachary Casey,Nurse,,(352)991-6467x31807,2017-07-07
+190,Elizabeth Graves,Lab Technician,,810-435-6453,2025-09-03
+191,Jennifer Brown,Nurse,,001-244-763-0824x910,2024-04-03
+192,Tracy Ramos,Pharmacist,,770.277.9043,2023-01-13
+193,Mrs. Jessica Lin,Pharmacist,,+1-790-246-0749x364,2016-10-25
+194,Patricia Wheeler,Doctor,Gynecology,+1-444-203-7979x3847,2021-08-09
+195,Laura Thomas,Nurse,,721.925.2791,2024-06-15
+196,Jacob Walker,Doctor,Oncology,(734)820-8117x13677,2024-09-03
+197,Angela Perez,Nurse,,(311)709-1635,2016-04-28
+198,Laura Downs,Admin,,597.445.7306,2020-07-08
+199,Bradley Perez,Nurse,,+1-971-536-1872x198,2022-03-31
+200,Miss Jamie Holmes DDS,Lab Technician,,250-369-3729x4143,2019-01-08

@@ -1,0 +1,8 @@
+"test_name","total_tests","abnormal_count","abnormal_percent"
+"ECG","80","23","28.75"
+"CT Scan","78","21","26.92"
+"X-Ray","72","17","23.61"
+"MRI","82","19","23.17"
+"Urine Test","89","20","22.47"
+"Blood Test","91","20","21.98"
+"Ultrasound","108","22","20.37"

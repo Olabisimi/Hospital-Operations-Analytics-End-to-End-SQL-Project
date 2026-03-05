@@ -1,0 +1,37 @@
+"admission_id","patient_id","doctor_id","ward","admit_date","discharge_date","length_of_stay","status","overlap_flag"
+16,41,41,"Surgery","2021-03-09","2021-04-08",30,"Discharged",False
+26,67,67,"General","2022-02-23","2022-03-24",29,"Discharged",False
+42,167,167,"Maternity","2025-04-16","2025-05-16",30,"Discharged",False
+50,17,17,"General","2025-09-11","2025-10-11",30,"Discharged",False
+59,71,71,"Maternity","2023-03-24","2023-04-23",30,"Transferred",False
+128,15,15,"Maternity","2024-12-25","2025-01-23",29,"Discharged",False
+138,147,147,"General","2024-03-24","2024-04-22",29,"Discharged",False
+168,45,45,"Maternity","2025-08-28","2025-09-26",29,"Discharged",False
+198,56,56,"Surgery","2023-01-10","2023-02-09",30,"Transferred",False
+242,128,128,"Maternity","2021-01-28","2021-02-27",30,"Transferred",False
+265,58,58,"Surgery","2025-06-03","2025-07-02",29,"Discharged",False
+273,150,150,"Surgery","2025-05-23","2025-06-21",29,"Transferred",False
+286,44,44,"Maternity","2023-03-16","2023-04-14",29,"Transferred",False
+314,102,102,"General","2024-04-10","2024-05-10",30,"Transferred",False
+338,163,163,"ICU","2023-02-25","2023-03-26",29,"Transferred",False
+365,61,61,"Maternity","2022-01-05","2022-02-03",29,"Discharged",False
+367,195,195,"General","2022-11-08","2022-12-07",29,"Discharged",False
+386,188,188,"ICU","2025-07-21","2025-08-20",30,"Discharged",False
+393,153,153,"Maternity","2023-12-16","2024-01-14",29,"Transferred",False
+409,108,108,"ICU","2024-03-05","2024-04-04",30,"Discharged",False
+425,67,67,"Surgery","2024-08-14","2024-09-12",29,"Discharged",False
+428,31,31,"General","2023-09-13","2023-10-13",30,"Transferred",False
+449,8,8,"ICU","2022-08-09","2022-09-08",30,"Discharged",False
+467,142,142,"Maternity","2025-09-29","2025-10-29",30,"Discharged",False
+213,13,13,"General","2024-08-29",NULL,30,"Still Admitted",True
+46,25,25,"General","2025-11-02",NULL,29,"Still Admitted",True
+307,48,48,"Surgery","2025-12-27",NULL,30,"Still Admitted",True
+474,78,78,"General","2021-08-23",NULL,30,"Still Admitted",True
+90,91,91,"ICU","2023-07-04",NULL,29,"Still Admitted",True
+171,92,92,"ICU","2022-12-01",NULL,29,"Still Admitted",True
+188,109,109,"Surgery","2022-03-12",NULL,30,"Still Admitted",True
+452,114,114,"Maternity","2022-03-03",NULL,30,"Still Admitted",True
+403,133,133,"ICU","2024-11-29","2024-12-28",29,"Transferred",True
+311,151,151,"General","2025-10-01",NULL,30,"Still Admitted",True
+39,175,175,"Maternity","2025-02-01",NULL,30,"Still Admitted",True
+405,198,198,"ICU","2021-02-16",NULL,29,"Still Admitted",True
