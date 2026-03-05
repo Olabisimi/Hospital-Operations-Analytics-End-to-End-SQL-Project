@@ -2,12 +2,14 @@
 This project analyzes a hospital database using PostgreSQL to uncover operational, clinical, and performance insights.
 
 **Executive Summary**
+
 This project delivers a full-cycle SQL analytics solution for a hospital system, covering data modeling, data validation, exploratory analysis, and advanced performance metrics.
 Using PostgreSQL, I transformed raw relational tables into actionable operational insights across patient flow, resource utilization, ward efficiency, and physician workload.
 
-🗂️ 1. Data Architecture & Modeling
+**1. Data Architecture & Modeling**
 The database consists of 11 relational tables:
--- Patients
+
+Patients
 Admissions
 Staff
 Doctors(derived from staff)
@@ -20,9 +22,11 @@ Surgeries
 Bills
 
 Primary and foreign keys were implemented to enforce referential integrity and ensure proper relational modeling.
+
 An Entity Relationship Diagram (ERD) was designed to validate table relationships and normalization structure.
 
  **2. Data Quality & Validation**
+
 Before analysis, structured validation checks were performed:
 ✅ Duplicate Checks
 Validated uniqueness of primary keys across core tables.
@@ -37,6 +41,7 @@ One-to-one patient-admission mapping in this dataset.
 These checks ensured analytical reliability before insight generation.
 
 **3. Core Analytical Findings**
+
 **Patient & Length of Stay Analysis**
 -- Average Length of Stay (LOS): 15.86 days
 Maximum LOS: 30 days
@@ -53,7 +58,7 @@ The readmission rate is relatively moderate but identifies a measurable segment 
 
 **Ward Performance**
 Average LOS by Ward:
--- Maternity – 16.86 days
+Maternity – 16.86 days
 Surgery – 16.09 days
 General – 15.74 days
 ICU – 14.93 days
@@ -66,7 +71,7 @@ Interpretation:
 Workload appears relatively balanced with no extreme case concentration.
  
 **4. Advanced SQL Techniques Applied**
---Window functions (LAG for readmission analysis)
+Window functions (LAG for readmission analysis)
 Ordered-set aggregate functions (PERCENTILE_CONT)
 Cross-table joins
 Aggregation & grouping
